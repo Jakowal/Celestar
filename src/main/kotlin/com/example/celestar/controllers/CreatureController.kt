@@ -3,8 +3,11 @@ package com.example.celestar.controllers
 import com.example.celestar.model.Creature
 import com.example.celestar.repositories.CreatureRepository
 import org.springframework.http.ResponseEntity
+import org.springframework.web.bind.annotation.DeleteMapping
 import org.springframework.web.bind.annotation.GetMapping
 import org.springframework.web.bind.annotation.PathVariable
+import org.springframework.web.bind.annotation.PostMapping
+import org.springframework.web.bind.annotation.RequestBody
 import org.springframework.web.bind.annotation.RequestMapping
 import org.springframework.web.bind.annotation.RestController
 
@@ -28,7 +31,17 @@ class CreatureController(
 
     @GetMapping("/name={name}")
     fun getAllByName(@PathVariable("name") name: String): ResponseEntity<List<Creature>> {
-        val creature = creatureRepository.findAllByName(name)
+        val creature = creatureRepository.findAllByNameContaining(name)
         return ResponseEntity.ok(creature)
+    }
+
+    @PostMapping
+    fun saveCreature(@RequestBody creature: Creature): ResponseEntity<Creature> {
+        return ResponseEntity.ok(creatureRepository.save(creature))
+    }
+
+    @DeleteMapping("/name={name}")
+    fun deleteCreaturesByName(@PathVariable name: String): ResponseEntity<Int> {
+        return ResponseEntity.ok(creatureRepository.deleteAllByName(name))
     }
 }

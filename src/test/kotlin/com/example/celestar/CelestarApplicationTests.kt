@@ -3,8 +3,7 @@ package com.example.celestar
 import com.example.celestar.model.Creature
 import com.example.celestar.repositories.CreatureRepository
 import org.junit.jupiter.api.AfterEach
-import org.junit.jupiter.api.Assertions.assertEquals
-import org.junit.jupiter.api.Assertions.assertNotNull
+import org.junit.jupiter.api.Assertions.*
 import org.junit.jupiter.api.Test
 import org.junit.jupiter.api.TestInstance
 import org.junit.jupiter.api.extension.ExtendWith
@@ -34,6 +33,7 @@ class CreatureControllerIntTest @Autowired constructor(
 ) {
 	private val defaultCreatureId = UUID.randomUUID().toString()
 	private val defaultCreatureName = "Database Test Creature, will be deleted"
+	private val testCreature = Creature(defaultCreatureId, defaultCreatureName, 0, 0, null, null)
 
 	@LocalServerPort
 	protected var port: Int = 8080
@@ -44,6 +44,46 @@ class CreatureControllerIntTest @Autowired constructor(
 	@AfterEach
 	fun cleanUp() {
 		creatureRepository.deleteAllByName(defaultCreatureName)
+	}
+
+	@Test
+	fun `should create a new creature`() {
+		val response = restTemplate.postForEntity(
+			getRootUrl(),
+			testCreature,
+			Creature::class.java
+		)
+
+		assertEquals(200, response.statusCode.value())
+		assertEquals(testCreature, response.body)
+	}
+
+	@Test
+	fun `should update an existing creature`() {
+		createTestCreature()
+		val originalCreature = restTemplate.getForEntity(
+			getRootUrl() + "/id=$defaultCreatureId",
+			Creature::class.java
+		).body
+
+		val changedCreature = originalCreature!!.copy()
+		changedCreature.ac = 10
+
+		restTemplate.postForEntity(
+			getRootUrl(),
+			changedCreature,
+			Creature::class.java
+		)
+
+		val response = restTemplate.getForEntity(
+			getRootUrl() + "/id=$defaultCreatureId",
+			Creature::class.java
+		)
+
+		assertEquals(200, response.statusCode.value())
+		assertNotNull(response.body)
+		assertEquals(10, response.body!!.ac)
+		assertNotEquals(originalCreature, response.body)
 	}
 
 	@Test
@@ -60,7 +100,7 @@ class CreatureControllerIntTest @Autowired constructor(
 	}
 
 	@Test
-	fun `should return all creatures by name`() {
+	fun `should return all creatures with the specified name`() {
 		createTestCreature()
 		createTestCreature(UUID.randomUUID().toString())
 
@@ -81,7 +121,7 @@ class CreatureControllerIntTest @Autowired constructor(
 	}
 
 	@Test
-	fun `should return single creature by id`() {
+	fun `should return a single creature with the specified id`() {
 		createTestCreature()
 
 		val response = restTemplate.getForEntity(
@@ -92,5 +132,27 @@ class CreatureControllerIntTest @Autowired constructor(
 		assertEquals(200, response.statusCode.value())
 		assertNotNull(response.body)
 		assertEquals(defaultCreatureId, response.body!!._id)
+	}
+
+	@Test
+	fun `should delete all creatures with the same name`() {
+		createTestCreature()
+		createTestCreature(UUID.randomUUID().toString())
+
+		restTemplate.exchange(
+			getRootUrl() + "/name=$defaultCreatureName",
+			HttpMethod.DELETE,
+			null,
+			Int::class.java
+		)
+
+		val response = restTemplate.exchange(
+			getRootUrl() + "/name=$defaultCreatureName",
+			HttpMethod.GET,
+			null,
+			object : ParameterizedTypeReference<List<Creature?>?>() {}
+		)
+
+		assertEquals(0, response.body!!.size)
 	}
 }

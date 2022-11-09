@@ -9,7 +9,7 @@ data class Creature(
     @Id
     val _id: String = UUID.randomUUID().toString(),
     val name: String,
-    val ac: Int,
+    var ac: Int,
     val hp: Int,
     val attacks: List<Attack>?,
     val meta: Any?
