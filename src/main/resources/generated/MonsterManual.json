@@ -1,0 +1,6409 @@
+[
+  {
+    "_id": "4d7980e8-c616-4da3-9cad-062a5200c072",
+    "name": "Aarakocra",
+    "ac": 13,
+    "hp": 12,
+    "attacks": [
+      {
+        "attackName": "Talon",
+        "attackDamage": "4",
+        "attackToHit": "1d4+2"
+      },
+      {
+        "attackName": "Javelin",
+        "attackDamage": "4",
+        "attackToHit": "1d6+2"
+      }
+    ],
+    "meta": {
+      "legacy": true
+    }
+  },
+  {
+    "_id": "b7449d2a-b4c5-4f2b-b47b-7d7b117f53eb",
+    "name": "Aboleth",
+    "ac": 135,
+    "hp": 17,
+    "attacks": [
+      {
+        "attackName": "Tentacle",
+        "attackDamage": "9",
+        "attackToHit": "2d6+5"
+      },
+      {
+        "attackName": "Tail",
+        "attackDamage": "9",
+        "attackToHit": "3d6+5"
+      }
+    ],
+    "meta": {
+      "legacy": true
+    }
+  },
+  {
+    "_id": "5a548083-3085-442c-ab81-86f89786450c",
+    "name": "Abominable Yeti",
+    "ac": 137,
+    "hp": 15,
+    "attacks": [
+      {
+        "attackName": "Claw",
+        "attackDamage": "11",
+        "attackToHit": "2d6+7/2d6"
+      }
+    ],
+    "meta": {
+      "legacy": true
+    }
+  },
+  {
+    "_id": "338104e1-4067-4fa4-8505-af4a8c56120d",
+    "name": "Adult Black Dragon",
+    "ac": 195,
+    "hp": 19,
+    "attacks": [
+      {
+        "attackName": "Bite",
+        "attackDamage": "11",
+        "attackToHit": "2d10+6/1d8"
+      },
+      {
+        "attackName": "Claw",
+        "attackDamage": "11",
+        "attackToHit": "2d6+6"
+      },
+      {
+        "attackName": "Tail",
+        "attackDamage": "11",
+        "attackToHit": "2d8+6"
+      }
+    ],
+    "meta": {
+      "legacy": true
+    }
+  },
+  {
+    "_id": "47834674-4526-4890-9a7a-0c789343a74a",
+    "name": "Adult Blue Dracolich",
+    "ac": 225,
+    "hp": 19,
+    "attacks": [
+      {
+        "attackName": "Bite",
+        "attackDamage": "12",
+        "attackToHit": "2d10+7/1d10"
+      },
+      {
+        "attackName": "Claw",
+        "attackDamage": "12",
+        "attackToHit": "2d6+7"
+      },
+      {
+        "attackName": "Tail",
+        "attackDamage": "12",
+        "attackToHit": "2d8+7"
+      }
+    ],
+    "meta": {
+      "legacy": true
+    }
+  },
+  {
+    "_id": "b2ddfd2f-46de-4ff2-8b0c-f8515ad15519",
+    "name": "Adult Blue Dragon",
+    "ac": 225,
+    "hp": 19,
+    "attacks": [
+      {
+        "attackName": "Bite",
+        "attackDamage": "12",
+        "attackToHit": "2d10+7/1d10"
+      },
+      {
+        "attackName": "Claw",
+        "attackDamage": "12",
+        "attackToHit": "2d8+7"
+      },
+      {
+        "attackName": "Tail",
+        "attackDamage": "12",
+        "attackToHit": "2d8+7"
+      }
+    ],
+    "meta": {
+      "legacy": true
+    }
+  },
+  {
+    "_id": "d7f24659-51e2-4bdd-812f-ec981cf607e0",
+    "name": "Adult Brass Dragon",
+    "ac": 178,
+    "hp": 18,
+    "attacks": [
+      {
+        "attackName": "Bite",
+        "attackDamage": "11",
+        "attackToHit": "2d10+6"
+      },
+      {
+        "attackName": "Claw",
+        "attackDamage": "11",
+        "attackToHit": "2d6+6"
+      },
+      {
+        "attackName": "Tail",
+        "attackDamage": "11",
+        "attackToHit": "2d8+6"
+      }
+    ],
+    "meta": {
+      "legacy": true
+    }
+  },
+  {
+    "_id": "f4986789-3d92-4ec0-9104-0154696f6584",
+    "name": "Adult Bronze Dragon",
+    "ac": 212,
+    "hp": 19,
+    "attacks": [
+      {
+        "attackName": "Bite",
+        "attackDamage": "12",
+        "attackToHit": "2d10+7"
+      },
+      {
+        "attackName": "Claw",
+        "attackDamage": "12",
+        "attackToHit": "2d8+7"
+      },
+      {
+        "attackName": "Tail",
+        "attackDamage": "12",
+        "attackToHit": "2d8+7"
+      }
+    ],
+    "meta": {
+      "legacy": true
+    }
+  },
+  {
+    "_id": "249606c2-680b-4667-bfd1-e6a02e14b197",
+    "name": "Adult Copper Dragon",
+    "ac": 184,
+    "hp": 18,
+    "attacks": [
+      {
+        "attackName": "Bite",
+        "attackDamage": "11",
+        "attackToHit": "2d10+6"
+      },
+      {
+        "attackName": "Claw",
+        "attackDamage": "11",
+        "attackToHit": "2d6+6"
+      },
+      {
+        "attackName": "Tail",
+        "attackDamage": "11",
+        "attackToHit": "2d8+6"
+      }
+    ],
+    "meta": {
+      "legacy": true
+    }
+  },
+  {
+    "_id": "570d4ddd-fa28-4449-90c2-90ed6cb5b7ed",
+    "name": "Adult Gold Dragon",
+    "ac": 256,
+    "hp": 19,
+    "attacks": [
+      {
+        "attackName": "Bite",
+        "attackDamage": "14",
+        "attackToHit": "2d10+8"
+      },
+      {
+        "attackName": "Claw",
+        "attackDamage": "14",
+        "attackToHit": "2d6+8"
+      },
+      {
+        "attackName": "Tail",
+        "attackDamage": "14",
+        "attackToHit": "2d8+8"
+      }
+    ],
+    "meta": {
+      "legacy": true
+    }
+  },
+  {
+    "_id": "f8ff87d0-a631-4e38-9d69-bcae92e0f356",
+    "name": "Adult Green Dragon",
+    "ac": 207,
+    "hp": 19,
+    "attacks": [
+      {
+        "attackName": "Bite",
+        "attackDamage": "11",
+        "attackToHit": "2d10+6/2d6"
+      },
+      {
+        "attackName": "Claw",
+        "attackDamage": "11",
+        "attackToHit": "2d6+6"
+      },
+      {
+        "attackName": "Tail",
+        "attackDamage": "11",
+        "attackToHit": "2d8+6"
+      }
+    ],
+    "meta": {
+      "legacy": true
+    }
+  },
+  {
+    "_id": "e60ae469-49ca-4af4-af9b-4ddf4ce9db8d",
+    "name": "Adult Red Dragon",
+    "ac": 256,
+    "hp": 19,
+    "attacks": [
+      {
+        "attackName": "Bite",
+        "attackDamage": "14",
+        "attackToHit": "2d10+8/2d6"
+      },
+      {
+        "attackName": "Claw",
+        "attackDamage": "14",
+        "attackToHit": "2d6+8"
+      },
+      {
+        "attackName": "Tail",
+        "attackDamage": "14",
+        "attackToHit": "2d8+8"
+      }
+    ],
+    "meta": {
+      "legacy": true
+    }
+  },
+  {
+    "_id": "6b902376-79fa-45e9-81f3-66526116e309",
+    "name": "Adult Silver Dragon",
+    "ac": 243,
+    "hp": 19,
+    "attacks": [
+      {
+        "attackName": "Bite",
+        "attackDamage": "14",
+        "attackToHit": "2d10+8"
+      },
+      {
+        "attackName": "Claw",
+        "attackDamage": "14",
+        "attackToHit": "2d6+8"
+      },
+      {
+        "attackName": "Tail",
+        "attackDamage": "14",
+        "attackToHit": "2d8+8"
+      }
+    ],
+    "meta": {
+      "legacy": true
+    }
+  },
+  {
+    "_id": "d84c19af-4865-478a-8022-b675bf8158ce",
+    "name": "Adult White Dragon",
+    "ac": 200,
+    "hp": 18,
+    "attacks": [
+      {
+        "attackName": "Bite",
+        "attackDamage": "11",
+        "attackToHit": "2d10+6/1d8"
+      },
+      {
+        "attackName": "Claw",
+        "attackDamage": "11",
+        "attackToHit": "2d6+6"
+      },
+      {
+        "attackName": "Tail",
+        "attackDamage": "11",
+        "attackToHit": "2d8+6"
+      }
+    ],
+    "meta": {
+      "legacy": true
+    }
+  },
+  {
+    "_id": "362fbdb2-a26f-46f7-948d-193879781304",
+    "name": "Air Elemental",
+    "ac": 90,
+    "hp": 15,
+    "attacks": [
+      {
+        "attackName": "Slam",
+        "attackDamage": "8",
+        "attackToHit": "2d8+5"
+      }
+    ],
+    "meta": {
+      "legacy": true
+    }
+  },
+  {
+    "_id": "fbd4a446-f081-4615-be70-68a5e372a439",
+    "name": "Allosaurus",
+    "ac": 51,
+    "hp": 13,
+    "attacks": [
+      {
+        "attackName": "Bite",
+        "attackDamage": "6",
+        "attackToHit": "2d10+4"
+      },
+      {
+        "attackName": "Claw",
+        "attackDamage": "6",
+        "attackToHit": "1d8+4"
+      }
+    ],
+    "meta": {
+      "legacy": true
+    }
+  },
+  {
+    "_id": "6f7314dc-7aee-4fc5-8bce-24070e43fb12",
+    "name": "Ancient Black Dragon",
+    "ac": 367,
+    "hp": 22,
+    "attacks": [
+      {
+        "attackName": "Bite",
+        "attackDamage": "15",
+        "attackToHit": "2d10+8/2d8"
+      },
+      {
+        "attackName": "Claw",
+        "attackDamage": "15",
+        "attackToHit": "2d6+8"
+      },
+      {
+        "attackName": "Tail",
+        "attackDamage": "15",
+        "attackToHit": "2d8+8"
+      }
+    ],
+    "meta": {
+      "legacy": true
+    }
+  },
+  {
+    "_id": "08116cdc-64c4-4abb-923b-b6c446efccad",
+    "name": "Ancient Blue Dragon",
+    "ac": 481,
+    "hp": 22,
+    "attacks": [
+      {
+        "attackName": "Bite",
+        "attackDamage": "16",
+        "attackToHit": "2d10+9/2d10"
+      },
+      {
+        "attackName": "Claw",
+        "attackDamage": "16",
+        "attackToHit": "2d6+9"
+      },
+      {
+        "attackName": "Tail",
+        "attackDamage": "16",
+        "attackToHit": "2d8+9"
+      }
+    ],
+    "meta": {
+      "legacy": true
+    }
+  },
+  {
+    "_id": "478de178-678e-493e-a494-83a96c991dc6",
+    "name": "Ancient Brass Dragon",
+    "ac": 297,
+    "hp": 20,
+    "attacks": [
+      {
+        "attackName": "Bite",
+        "attackDamage": "14",
+        "attackToHit": "2d10+8"
+      },
+      {
+        "attackName": "Claw",
+        "attackDamage": "14",
+        "attackToHit": "2d6+8"
+      },
+      {
+        "attackName": "Tail",
+        "attackDamage": "14",
+        "attackToHit": "2d8+8"
+      }
+    ],
+    "meta": {
+      "legacy": true
+    }
+  },
+  {
+    "_id": "62300557-dc17-4911-a661-8b6f29f00b96",
+    "name": "Ancient Bronze Dragon",
+    "ac": 444,
+    "hp": 22,
+    "attacks": [
+      {
+        "attackName": "Bite",
+        "attackDamage": "16",
+        "attackToHit": "2d10+9"
+      },
+      {
+        "attackName": "Claw",
+        "attackDamage": "16",
+        "attackToHit": "2d6+9"
+      },
+      {
+        "attackName": "Tail",
+        "attackDamage": "16",
+        "attackToHit": "2d8+9"
+      }
+    ],
+    "meta": {
+      "legacy": true
+    }
+  },
+  {
+    "_id": "38d36d23-d9c9-4a15-8c1a-4a6249e8a14b",
+    "name": "Ancient Copper Dragon",
+    "ac": 350,
+    "hp": 21,
+    "attacks": [
+      {
+        "attackName": "Bite",
+        "attackDamage": "15",
+        "attackToHit": "2d10+8"
+      },
+      {
+        "attackName": "Claw",
+        "attackDamage": "15",
+        "attackToHit": "2d6+8"
+      },
+      {
+        "attackName": "Tail",
+        "attackDamage": "15",
+        "attackToHit": "2d8+8"
+      }
+    ],
+    "meta": {
+      "legacy": true
+    }
+  },
+  {
+    "_id": "8af6cf5c-a36b-4d1b-a5ac-ba61d9b77f39",
+    "name": "Ancient Gold Dragon",
+    "ac": 546,
+    "hp": 22,
+    "attacks": [
+      {
+        "attackName": "Bite",
+        "attackDamage": "17",
+        "attackToHit": "2d10+10"
+      },
+      {
+        "attackName": "Claw",
+        "attackDamage": "17",
+        "attackToHit": "2d6+10"
+      },
+      {
+        "attackName": "Tail",
+        "attackDamage": "17",
+        "attackToHit": "2d8+10"
+      }
+    ],
+    "meta": {
+      "legacy": true
+    }
+  },
+  {
+    "_id": "6a7d3d34-bf78-476b-9e5b-c50b1654c7cb",
+    "name": "Ancient Green Dragon",
+    "ac": 385,
+    "hp": 21,
+    "attacks": [
+      {
+        "attackName": "Bite",
+        "attackDamage": "15",
+        "attackToHit": "2d10+8/3d6"
+      },
+      {
+        "attackName": "Claw",
+        "attackDamage": "15",
+        "attackToHit": "4d6+8"
+      },
+      {
+        "attackName": "Tail",
+        "attackDamage": "15",
+        "attackToHit": "2d8+8"
+      }
+    ],
+    "meta": {
+      "legacy": true
+    }
+  },
+  {
+    "_id": "35d07012-aef6-435a-90a0-ad98109029da",
+    "name": "Ancient Red Dragon",
+    "ac": 546,
+    "hp": 22,
+    "attacks": [
+      {
+        "attackName": "Bite",
+        "attackDamage": "17",
+        "attackToHit": "2d10+10/4d6"
+      },
+      {
+        "attackName": "Claw",
+        "attackDamage": "17",
+        "attackToHit": "2d6+10"
+      },
+      {
+        "attackName": "Tail",
+        "attackDamage": "17",
+        "attackToHit": "2d8+10"
+      }
+    ],
+    "meta": {
+      "legacy": true
+    }
+  },
+  {
+    "_id": "fa085d3f-2618-41df-9005-f7d0469bf4a0",
+    "name": "Ancient Silver Dragon",
+    "ac": 22,
+    "hp": 487,
+    "attacks": [
+      {
+        "attackName": "Bite",
+        "attackDamage": "17",
+        "attackToHit": "2d10+10"
+      },
+      {
+        "attackName": "Claw",
+        "attackDamage": "17",
+        "attackToHit": "2d6+10"
+      },
+      {
+        "attackName": "Tail",
+        "attackDamage": "17",
+        "attackToHit": "2d8+10"
+      }
+    ],
+    "meta": {
+      "legacy": true
+    }
+  },
+  {
+    "_id": "0969b1bf-c294-49c9-acb5-f705a61b519e",
+    "name": "Ancient White Dragon",
+    "ac": 333,
+    "hp": 20,
+    "attacks": [
+      {
+        "attackName": "Bite",
+        "attackDamage": "14",
+        "attackToHit": "2d10+8/2d8"
+      },
+      {
+        "attackName": "Claw",
+        "attackDamage": "14",
+        "attackToHit": "2d6+8"
+      },
+      {
+        "attackName": "Tail",
+        "attackDamage": "14",
+        "attackToHit": "2d8+8"
+      }
+    ],
+    "meta": {
+      "legacy": true
+    }
+  },
+  {
+    "_id": "a60bc095-aa44-46ed-ac28-03652aa99eae",
+    "name": "Adrosphinx",
+    "ac": 199,
+    "hp": 17,
+    "attacks": [
+      {
+        "attackName": "Claw",
+        "attackDamage": "12",
+        "attackToHit": "2d10+6"
+      }
+    ],
+    "meta": {
+      "legacy": true
+    }
+  },
+  {
+    "_id": "611f68ec-3d5b-4b1b-a621-6cfe5c547645",
+    "name": "Animated Armor",
+    "ac": 33,
+    "hp": 18,
+    "attacks": [
+      {
+        "attackName": "Slam",
+        "attackDamage": "4",
+        "attackToHit": "1d6+2"
+      }
+    ],
+    "meta": {
+      "legacy": true
+    }
+  },
+  {
+    "_id": "a6727ef1-2483-4938-9bb6-ba0288016ee3",
+    "name": "Ankheg",
+    "ac": 39,
+    "hp": 14,
+    "attacks": [
+      {
+        "attackName": "Bite",
+        "attackDamage": "5",
+        "attackToHit": "2d6+3/1d6"
+      }
+    ],
+    "meta": {
+      "legacy": true
+    }
+  },
+  {
+    "_id": "1297ff2b-4651-427f-a024-dba3dc0cfa86",
+    "name": "Ankylosaurus",
+    "ac": 68,
+    "hp": 15,
+    "attacks": [
+      {
+        "attackName": "Tail",
+        "attackDamage": "7",
+        "attackToHit": "4d6+4"
+      }
+    ],
+    "meta": {
+      "legacy": true
+    }
+  },
+  {
+    "_id": "040fcfa4-0b2b-4e9d-9381-d61b34a2ff91",
+    "name": "Arcanaloth",
+    "ac": 104,
+    "hp": 17,
+    "attacks": [
+      {
+        "attackName": "Claws",
+        "attackDamage": "7",
+        "attackToHit": "2d4+3/3d6"
+      }
+    ],
+    "meta": {
+      "legacy": true
+    }
+  },
+  {
+    "_id": "f4e5a90c-ed92-4658-8c42-fb7284f0da10",
+    "name": "Azer",
+    "ac": 39,
+    "hp": 17,
+    "attacks": [
+      {
+        "attackName": "Warhammer(1H)",
+        "attackDamage": "5",
+        "attackToHit": "1d8+3/1d6"
+      },
+      {
+        "attackName": "Warhammer(2H)",
+        "attackDamage": "5",
+        "attackToHit": "1d10+3/1d6"
+      }
+    ],
+    "meta": {
+      "legacy": true
+    }
+  },
+  {
+    "_id": "7705e290-c562-4d60-98bb-a62275e420c0",
+    "name": "Balor",
+    "ac": 262,
+    "hp": 19,
+    "attacks": [
+      {
+        "attackName": "Longsword",
+        "attackDamage": "14",
+        "attackToHit": "3d8+8/3d8"
+      },
+      {
+        "attackName": "Whip",
+        "attackDamage": "14",
+        "attackToHit": "2d6+8/3d6"
+      }
+    ],
+    "meta": {
+      "legacy": true
+    }
+  },
+  {
+    "_id": "1a985d88-eb8f-4f71-9fe6-cbde00d276f0",
+    "name": "Barlgura",
+    "ac": 68,
+    "hp": 15,
+    "attacks": [
+      {
+        "attackName": "Bite",
+        "attackDamage": "7",
+        "attackToHit": "2d6+4"
+      },
+      {
+        "attackName": "Fist",
+        "attackDamage": "7",
+        "attackToHit": "1d10+4"
+      }
+    ],
+    "meta": {
+      "legacy": true
+    }
+  },
+  {
+    "_id": "7d700513-7ad4-4e4f-b477-be849f990088",
+    "name": "Banshee",
+    "ac": 58,
+    "hp": 12,
+    "attacks": [
+      {
+        "attackName": "Corrupting Touch",
+        "attackDamage": "4",
+        "attackToHit": "3d6+2"
+      }
+    ],
+    "meta": {
+      "legacy": true
+    }
+  },
+  {
+    "_id": "3b9d0f01-afba-41a9-b4a6-26252d8e0d5e",
+    "name": "Barbed Devil",
+    "ac": 110,
+    "hp": 15,
+    "attacks": [
+      {
+        "attackName": "Claw",
+        "attackDamage": "6",
+        "attackToHit": "1d6+3"
+      },
+      {
+        "attackName": "Tail",
+        "attackDamage": "6",
+        "attackToHit": "2d6+3"
+      },
+      {
+        "attackName": "Hurl Flame",
+        "attackDamage": "5",
+        "attackToHit": "3d6+0"
+      }
+    ],
+    "meta": {
+      "legacy": true
+    }
+  },
+  {
+    "_id": "9ab84194-afa2-4267-abd7-bee377c0059f",
+    "name": "Basilisk",
+    "ac": 52,
+    "hp": 15,
+    "attacks": [
+      {
+        "attackName": "Bite",
+        "attackDamage": "5",
+        "attackToHit": "2d6+3/2d6"
+      }
+    ],
+    "meta": {
+      "legacy": true
+    }
+  },
+  {
+    "_id": "e68cc886-80b6-4c08-a593-5fefd0c95699",
+    "name": "Bearded Devil",
+    "ac": 52,
+    "hp": 13,
+    "attacks": [
+      {
+        "attackName": "Beard",
+        "attackDamage": "5",
+        "attackToHit": "1d8+2"
+      },
+      {
+        "attackName": "Glaive",
+        "attackDamage": "5",
+        "attackToHit": "1d10+3"
+      }
+    ],
+    "meta": {
+      "legacy": true
+    }
+  },
+  {
+    "_id": "db3c2aa3-5129-469f-b299-0fe5d240fccd",
+    "name": "Behir",
+    "ac": 168,
+    "hp": 17,
+    "attacks": [
+      {
+        "attackName": "Bite",
+        "attackDamage": "10",
+        "attackToHit": "3d10+6"
+      },
+      {
+        "attackName": "Constrict",
+        "attackDamage": "10",
+        "attackToHit": "2d10+6/2d10+6"
+      }
+    ],
+    "meta": {
+      "legacy": true
+    }
+  },
+  {
+    "_id": "f808f429-56b6-4ab1-a3a6-3dfdda3e7253",
+    "name": "Beholder",
+    "ac": 180,
+    "hp": 18,
+    "attacks": [
+      {
+        "attackName": "Bite",
+        "attackDamage": "5",
+        "attackToHit": "4d6"
+      }
+    ],
+    "meta": {
+      "legacy": true
+    }
+  },
+  {
+    "_id": "7ffd6f27-c330-4cb1-b0b5-c76ceb1cd759",
+    "name": "Beholder Zombie",
+    "ac": 93,
+    "hp": 15,
+    "attacks": [
+      {
+        "attackName": "Bite",
+        "attackDamage": "3",
+        "attackToHit": "4d6"
+      }
+    ],
+    "meta": {
+      "legacy": true
+    }
+  },
+  {
+    "_id": "ad42a63b-ba25-4527-be2b-adee13806c2e",
+    "name": "Black Dragon Wyrmling",
+    "ac": 33,
+    "hp": 17,
+    "attacks": [
+      {
+        "attackName": "Bite",
+        "attackDamage": "4",
+        "attackToHit": "1d10+2/1d4"
+      }
+    ],
+    "meta": {
+      "legacy": true
+    }
+  },
+  {
+    "_id": "91903702-bc17-4d1e-b1ec-a57a9e86764b",
+    "name": "Black Pudding",
+    "ac": 85,
+    "hp": 7,
+    "attacks": [
+      {
+        "attackName": "Pseudopod",
+        "attackDamage": "5",
+        "attackToHit": "1d6+3/4d8"
+      }
+    ],
+    "meta": {
+      "legacy": true
+    }
+  },
+  {
+    "_id": "9fb029b3-b653-4c14-88df-2cc17ff4ac13",
+    "name": "Blue Dragon Wyrmling",
+    "ac": 52,
+    "hp": 17,
+    "attacks": [
+      {
+        "attackName": "Bite",
+        "attackDamage": "5",
+        "attackToHit": "1d10+3/1d6"
+      }
+    ],
+    "meta": {
+      "legacy": true
+    }
+  },
+  {
+    "_id": "1dc44cb0-67c3-4e90-8cf2-9a810c63edb0",
+    "name": "Blue Slaad",
+    "ac": 123,
+    "hp": 15,
+    "attacks": [
+      {
+        "attackName": "Bite",
+        "attackDamage": "8",
+        "attackToHit": "2d6+5"
+      },
+      {
+        "attackName": "Claw",
+        "attackDamage": "8",
+        "attackToHit": "2d6+5"
+      }
+    ],
+    "meta": {
+      "legacy": true
+    }
+  },
+  {
+    "_id": "016dbdb8-c268-42f9-8b02-fd0242b660a9",
+    "name": "Bone Devil",
+    "ac": 142,
+    "hp": 19,
+    "attacks": [
+      {
+        "attackName": "Claw",
+        "attackDamage": "8",
+        "attackToHit": "1d8+4"
+      },
+      {
+        "attackName": "Sting",
+        "attackDamage": "8",
+        "attackToHit": "2d8+4/5d6"
+      }
+    ],
+    "meta": {
+      "legacy": true
+    }
+  },
+  {
+    "_id": "c936734d-4fdc-455c-86ad-8c83a7124330",
+    "name": "Bone Naga",
+    "ac": 58,
+    "hp": 15,
+    "attacks": [
+      {
+        "attackName": "Bite",
+        "attackDamage": "5",
+        "attackToHit": "2d6+3"
+      }
+    ],
+    "meta": {
+      "legacy": true
+    }
+  },
+  {
+    "_id": "38d588ad-5615-4bf9-b281-dee1bf8de2da",
+    "name": "Bugbear",
+    "ac": 27,
+    "hp": 16,
+    "attacks": [
+      {
+        "attackName": "Morningstar",
+        "attackDamage": "4",
+        "attackToHit": "2d8+2"
+      },
+      {
+        "attackName": "Javelin(Melee)",
+        "attackDamage": "4",
+        "attackToHit": "2d6+2"
+      },
+      {
+        "attackName": "Javelin(Ranged)",
+        "attackDamage": "4",
+        "attackToHit": "1d6+2"
+      }
+    ],
+    "meta": {
+      "legacy": true
+    }
+  },
+  {
+    "_id": "6f0ad1d4-1a68-4085-8edd-104dd1e92b9c",
+    "name": "Bugbear Chief",
+    "ac": 65,
+    "hp": 17,
+    "attacks": [
+      {
+        "attackName": "Morningstar",
+        "attackDamage": "5",
+        "attackToHit": "2d8+3"
+      },
+      {
+        "attackName": "Javelin(Melee)",
+        "attackDamage": "5",
+        "attackToHit": "2d6+3"
+      },
+      {
+        "attackName": "Javelin(Ranged)",
+        "attackDamage": "5",
+        "attackToHit": "1d6+3"
+      }
+    ],
+    "meta": {
+      "legacy": true
+    }
+  },
+  {
+    "_id": "524f1200-24c1-4c7b-b8a5-77a6bbdf273b",
+    "name": "Bulette",
+    "ac": 94,
+    "hp": 17,
+    "attacks": [
+      {
+        "attackName": "Bite",
+        "attackDamage": "7",
+        "attackToHit": "4d12+4"
+      }
+    ],
+    "meta": {
+      "legacy": true
+    }
+  },
+  {
+    "_id": "8940a2ae-882e-42ea-87d7-356f80a119b8",
+    "name": "Bullywug",
+    "ac": 11,
+    "hp": 15,
+    "attacks": [
+      {
+        "attackName": "Bite",
+        "attackDamage": "3",
+        "attackToHit": "1d4+1"
+      },
+      {
+        "attackName": "Spear(Ranged)",
+        "attackDamage": "3",
+        "attackToHit": "1d6+1"
+      },
+      {
+        "attackName": "Spear(Melee)",
+        "attackDamage": "3",
+        "attackToHit": "1d8+1"
+      }
+    ],
+    "meta": {
+      "legacy": true
+    }
+  },
+  {
+    "_id": "781601d5-a426-4dab-ae12-535f240d7c81",
+    "name": "Brass Dragon Wyrmling",
+    "ac": 16,
+    "hp": 16,
+    "attacks": [
+      {
+        "attackName": "Bite",
+        "attackDamage": "4",
+        "attackToHit": "1d10+2"
+      }
+    ],
+    "meta": {
+      "legacy": true
+    }
+  },
+  {
+    "_id": "af767e03-af9c-416a-93a4-7bedfa8ea1da",
+    "name": "Bronze Dragon Wyrmling",
+    "ac": 32,
+    "hp": 17,
+    "attacks": [
+      {
+        "attackName": "Bite",
+        "attackDamage": "5",
+        "attackToHit": "1d10+3"
+      }
+    ],
+    "meta": {
+      "legacy": true
+    }
+  },
+  {
+    "_id": "c0035f0f-c3b9-4449-b015-c61f25f007da",
+    "name": "Cambion",
+    "ac": 82,
+    "hp": 19,
+    "attacks": [
+      {
+        "attackName": "Spear(Melee)",
+        "attackDamage": "7",
+        "attackToHit": "1d8+4/1d6"
+      },
+      {
+        "attackName": "Spear(Ranged)",
+        "attackDamage": "7",
+        "attackToHit": "1d6+4/1d6"
+      },
+      {
+        "attackName": "Fire Ray",
+        "attackDamage": "7",
+        "attackToHit": "3d6"
+      }
+    ],
+    "meta": {
+      "legacy": true
+    }
+  },
+  {
+    "_id": "a95f5e02-3395-4e3f-af33-b64621e32e12",
+    "name": "Carrion Crawler",
+    "ac": 51,
+    "hp": 13,
+    "attacks": [
+      {
+        "attackName": "Tentacles",
+        "attackDamage": "8",
+        "attackToHit": "1d4+2"
+      },
+      {
+        "attackName": "Bite",
+        "attackDamage": "4",
+        "attackToHit": "2d4+2"
+      }
+    ],
+    "meta": {
+      "legacy": true
+    }
+  },
+  {
+    "_id": "3683e21a-1392-4193-9bc2-3feefcfac247",
+    "name": "Centaur",
+    "ac": 45,
+    "hp": 12,
+    "attacks": [
+      {
+        "attackName": "Pike",
+        "attackDamage": "6",
+        "attackToHit": "1d10+4"
+      },
+      {
+        "attackName": "Hooves",
+        "attackDamage": "6",
+        "attackToHit": "2d6+4"
+      },
+      {
+        "attackName": "Longbow",
+        "attackDamage": "4",
+        "attackToHit": "1d8+2"
+      }
+    ],
+    "meta": {
+      "legacy": true
+    }
+  },
+  {
+    "_id": "63701050-1c2b-4fa9-8f41-b006d7343b53",
+    "name": "Chain Devil",
+    "ac": 16,
+    "hp": 85,
+    "attacks": [
+      {
+        "attackName": "Chain",
+        "attackDamage": "8",
+        "attackToHit": "2d6+4"
+      }
+    ],
+    "meta": {
+      "legacy": true
+    }
+  },
+  {
+    "_id": "09bef087-2c0c-4cf9-bb37-0d37e4094cfb",
+    "name": "Chasme",
+    "ac": 84,
+    "hp": 15,
+    "attacks": [
+      {
+        "attackName": "Proboscis",
+        "attackDamage": "5",
+        "attackToHit": "4f6+2/7d6"
+      }
+    ],
+    "meta": {
+      "legacy": true
+    }
+  },
+  {
+    "_id": "19942496-428a-4dc9-a487-b26c7d84f982",
+    "name": "Chimera",
+    "ac": 114,
+    "hp": 14,
+    "attacks": [
+      {
+        "attackName": "Bite",
+        "attackDamage": "7",
+        "attackToHit": "2d6+4"
+      },
+      {
+        "attackName": "Horns",
+        "attackDamage": "7",
+        "attackToHit": "1d12+4"
+      },
+      {
+        "attackName": "Claws",
+        "attackDamage": "7",
+        "attackToHit": "2d6+4"
+      }
+    ],
+    "meta": {
+      "legacy": true
+    }
+  },
+  {
+    "_id": "6bb293ef-e4f9-4a07-be3e-5bd563781067",
+    "name": "Chuul",
+    "ac": 93,
+    "hp": 16,
+    "attacks": [
+      {
+        "attackName": "Pincer",
+        "attackDamage": "6",
+        "attackToHit": "2d6+4"
+      }
+    ],
+    "meta": {
+      "legacy": true
+    }
+  },
+  {
+    "_id": "d120db26-3e15-4855-b15a-2e1f5882def0",
+    "name": "Clay Golem",
+    "ac": 133,
+    "hp": 14,
+    "attacks": [
+      {
+        "attackName": "Slam",
+        "attackDamage": "8",
+        "attackToHit": "2d10+5"
+      }
+    ],
+    "meta": {
+      "legacy": true
+    }
+  },
+  {
+    "_id": "82758f7e-a073-4fff-af6f-e785854e6183",
+    "name": "Cloaker",
+    "ac": 78,
+    "hp": 14,
+    "attacks": [
+      {
+        "attackName": "Bite",
+        "attackDamage": "6",
+        "attackToHit": "2d6+3"
+      },
+      {
+        "attackName": "Tail",
+        "attackDamage": "6",
+        "attackToHit": "1d8+3"
+      }
+    ],
+    "meta": {
+      "legacy": true
+    }
+  },
+  {
+    "_id": "ea1572b3-2717-4562-8fb5-8f48c6406578",
+    "name": "Cloud Giant",
+    "ac": 200,
+    "hp": 14,
+    "attacks": [
+      {
+        "attackName": "Morningstar",
+        "attackDamage": "12",
+        "attackToHit": "3d8+8"
+      },
+      {
+        "attackName": "Rock",
+        "attackDamage": "12",
+        "attackToHit": "4d10+8"
+      }
+    ],
+    "meta": {
+      "legacy": true
+    }
+  },
+  {
+    "_id": "451cc543-6ba6-486d-ba85-d11de7534f62",
+    "name": "Cockatrice",
+    "ac": 27,
+    "hp": 11,
+    "attacks": [
+      {
+        "attackName": "Bite",
+        "attackDamage": "3",
+        "attackToHit": "1d4+1"
+      }
+    ],
+    "meta": {
+      "legacy": true
+    }
+  },
+  {
+    "_id": "eb821f96-0258-476b-9a47-6a99ac637b5b",
+    "name": "Copper Dragon Wyrmling",
+    "ac": 22,
+    "hp": 16,
+    "attacks": [
+      {
+        "attackName": "Bite",
+        "attackDamage": "4",
+        "attackToHit": "1d10+2"
+      }
+    ],
+    "meta": {
+      "legacy": true
+    }
+  },
+  {
+    "_id": "e82ec9c2-b3da-45b5-9f8d-b51e701082e0",
+    "name": "Couatl",
+    "ac": 97,
+    "hp": 19,
+    "attacks": [
+      {
+        "attackName": "Bite",
+        "attackDamage": "8",
+        "attackToHit": "1d6+5"
+      },
+      {
+        "attackName": "Constrict",
+        "attackDamage": "6",
+        "attackToHit": "2d6+3"
+      }
+    ],
+    "meta": {
+      "legacy": true
+    }
+  },
+  {
+    "_id": "0d61ee3a-92ef-4bb5-bacc-6ac96c93ec5c",
+    "name": "Crawling Claw",
+    "ac": 2,
+    "hp": 12,
+    "attacks": [
+      {
+        "attackName": "Claw",
+        "attackDamage": "3",
+        "attackToHit": "1d4+1"
+      }
+    ],
+    "meta": {
+      "legacy": true
+    }
+  },
+  {
+    "_id": "a577a5f7-2c46-4a14-adc8-fe23b5f7e3d4",
+    "name": "Cyclops",
+    "ac": 138,
+    "hp": 14,
+    "attacks": [
+      {
+        "attackName": "Greatclub",
+        "attackDamage": "9",
+        "attackToHit": "3d8+6"
+      },
+      {
+        "attackName": "Rock",
+        "attackDamage": "9",
+        "attackToHit": "4d10+6"
+      }
+    ],
+    "meta": {
+      "legacy": true
+    }
+  },
+  {
+    "_id": "188721b4-c977-456d-be34-782a7e14be29",
+    "name": "Dao",
+    "ac": 187,
+    "hp": 18,
+    "attacks": [
+      {
+        "attackName": "Fist",
+        "attackDamage": "10",
+        "attackToHit": "2d8+6"
+      },
+      {
+        "attackName": "Maul",
+        "attackDamage": "10",
+        "attackToHit": "4d6+6"
+      }
+    ],
+    "meta": {
+      "legacy": true
+    }
+  },
+  {
+    "_id": "f1689eb7-f919-4b75-844c-5434ae375923",
+    "name": "Darkmantle",
+    "ac": 22,
+    "hp": 11,
+    "attacks": [
+      {
+        "attackName": "Crush",
+        "attackDamage": "5",
+        "attackToHit": "1d6+3"
+      }
+    ],
+    "meta": {
+      "legacy": true
+    }
+  },
+  {
+    "_id": "5758dbd7-8a5e-4415-b382-098a665db2d3",
+    "name": "Death Knight",
+    "ac": 180,
+    "hp": 20,
+    "attacks": [
+      {
+        "attackName": "Longsword(1H)",
+        "attackDamage": "11",
+        "attackToHit": "1d8+5/4d8"
+      },
+      {
+        "attackName": "Longsword(2H)",
+        "attackDamage": "11",
+        "attackToHit": "1d10+5/4d8"
+      }
+    ],
+    "meta": {
+      "legacy": true
+    }
+  },
+  {
+    "_id": "c32ae16f-a926-4e3c-9c00-f480dbe1b253",
+    "name": "Death Slaad",
+    "ac": 170,
+    "hp": 18,
+    "attacks": [
+      {
+        "attackName": "Bite",
+        "attackDamage": "9",
+        "attackToHit": "1d8+5/2d6"
+      },
+      {
+        "attackName": "Claws",
+        "attackDamage": "9",
+        "attackToHit": "1d10+5/2d6"
+      },
+      {
+        "attackName": "Greatsword",
+        "attackDamage": "9",
+        "attackToHit": "2d6+5/2d6"
+      }
+    ],
+    "meta": {
+      "legacy": true
+    }
+  },
+  {
+    "_id": "cd1766d0-1f6a-4e83-9106-15b3fcafcb64",
+    "name": "Death Tyrant",
+    "ac": 187,
+    "hp": 19,
+    "attacks": [
+      {
+        "attackName": "Bite",
+        "attackDamage": "5",
+        "attackToHit": "4d6"
+      }
+    ],
+    "meta": {
+      "legacy": true
+    }
+  },
+  {
+    "_id": "f192c85c-4482-4167-ae1d-1d37bf6f301d",
+    "name": "Deep Gnome",
+    "ac": 16,
+    "hp": 15,
+    "attacks": [
+      {
+        "attackName": "War Pick",
+        "attackDamage": "4",
+        "attackToHit": "1d8+2"
+      },
+      {
+        "attackName": "Poisoned Dart",
+        "attackDamage": "4",
+        "attackToHit": "1d4+2"
+      }
+    ],
+    "meta": {
+      "legacy": true
+    }
+  },
+  {
+    "_id": "69ae8e82-8200-4ddf-a1eb-bff0356b0041",
+    "name": "Deep Scion",
+    "ac": 67,
+    "hp": 11,
+    "attacks": [
+      {
+        "attackName": "Battleaxe(1H)",
+        "attackDamage": "6",
+        "attackToHit": "1d8+4"
+      },
+      {
+        "attackName": "Battleaxe(2H)",
+        "attackDamage": "6",
+        "attackToHit": "1d10+4"
+      },
+      {
+        "attackName": "Bite",
+        "attackDamage": "6",
+        "attackToHit": "1d4+4"
+      },
+      {
+        "attackName": "Claw",
+        "attackDamage": "6",
+        "attackToHit": "1d6+4"
+      }
+    ],
+    "meta": {
+      "legacy": true
+    }
+  },
+  {
+    "_id": "3ac2aee8-3980-40f8-b6ea-1001170b8f04",
+    "name": "Demilich",
+    "ac": 80,
+    "hp": 20,
+    "attacks": [],
+    "meta": {
+      "legacy": true
+    }
+  },
+  {
+    "_id": "313c2909-da77-48c2-8bb4-be1aab062554",
+    "name": "Deva",
+    "ac": 136,
+    "hp": 17,
+    "attacks": [
+      {
+        "attackName": "Mace",
+        "attackDamage": "8",
+        "attackToHit": "1d6+4/4d8"
+      }
+    ],
+    "meta": {
+      "legacy": true
+    }
+  },
+  {
+    "_id": "dbe30174-3678-4cc1-b853-0a7a73d55b7d",
+    "name": "Displacer Beast",
+    "ac": 85,
+    "hp": 13,
+    "attacks": [
+      {
+        "attackName": "Tentacle",
+        "attackDamage": "6",
+        "attackToHit": "1d6+4/1d6"
+      }
+    ],
+    "meta": {
+      "legacy": true
+    }
+  },
+  {
+    "_id": "164eee5d-bb72-48c7-b1a2-7fc70ccbb1dd",
+    "name": "Djinni",
+    "ac": 161,
+    "hp": 17,
+    "attacks": [
+      {
+        "attackName": "Scimitar",
+        "attackDamage": "9",
+        "attackToHit": "2d6+5/1d6"
+      }
+    ],
+    "meta": {
+      "legacy": true
+    }
+  },
+  {
+    "_id": "0a290f9c-6867-4d9c-8b34-914b6d9adb03",
+    "name": "Doppelganger",
+    "ac": 52,
+    "hp": 14,
+    "attacks": [
+      {
+        "attackName": "Slam",
+        "attackDamage": "6",
+        "attackToHit": "1d6+4"
+      }
+    ],
+    "meta": {
+      "legacy": true
+    }
+  },
+  {
+    "_id": "861c0736-23a3-4bb2-a5b8-26bf3c03bfa5",
+    "name": "Dragon Turtle",
+    "ac": 341,
+    "hp": 20,
+    "attacks": [
+      {
+        "attackName": "Bite",
+        "attackDamage": "13",
+        "attackToHit": "3d12+7"
+      },
+      {
+        "attackName": "Claw",
+        "attackDamage": "13",
+        "attackToHit": "2d8+7"
+      },
+      {
+        "attackName": "Tail",
+        "attackDamage": "13",
+        "attackToHit": "2d8+7"
+      }
+    ],
+    "meta": {
+      "legacy": true
+    }
+  },
+  {
+    "_id": "6e754ad5-193d-4e77-a6db-cfa7b2878cec",
+    "name": "Dretch",
+    "ac": 18,
+    "hp": 11,
+    "attacks": [
+      {
+        "attackName": "Bite",
+        "attackDamage": "2",
+        "attackToHit": "1d6"
+      },
+      {
+        "attackName": "Claws",
+        "attackDamage": "2",
+        "attackToHit": "2d4"
+      }
+    ],
+    "meta": {
+      "legacy": true
+    }
+  },
+  {
+    "_id": "4ebf2b4a-0996-4641-8ea8-1bcbb48c67d1",
+    "name": "Drider",
+    "ac": 123,
+    "hp": 19,
+    "attacks": [
+      {
+        "attackName": "Bite",
+        "attackDamage": "6",
+        "attackToHit": "1d4/2d8"
+      },
+      {
+        "attackName": "Longsword(1H)",
+        "attackDamage": "6",
+        "attackToHit": "1d8+3"
+      },
+      {
+        "attackName": "Longsword(2H)",
+        "attackDamage": "6",
+        "attackToHit": "1d10+3"
+      },
+      {
+        "attackName": "Longbow",
+        "attackDamage": "6",
+        "attackToHit": "1d8+3/1d8"
+      }
+    ],
+    "meta": {
+      "legacy": true
+    }
+  },
+  {
+    "_id": "b1c7f50b-4272-46ba-84ff-969f1252947a",
+    "name": "Drow",
+    "ac": 13,
+    "hp": 15,
+    "attacks": [
+      {
+        "attackName": "Shortsword",
+        "attackDamage": "4",
+        "attackToHit": "1d6+2"
+      },
+      {
+        "attackName": "Hand Crossbow",
+        "attackDamage": "4",
+        "attackToHit": "1d6+2"
+      }
+    ],
+    "meta": {
+      "legacy": true
+    }
+  },
+  {
+    "_id": "b7127676-1888-4a79-9a1c-efd0c4f78444",
+    "name": "Drow Elite Warrior",
+    "ac": 71,
+    "hp": 18,
+    "attacks": [
+      {
+        "attackName": "Shortsword",
+        "attackDamage": "7",
+        "attackToHit": "1d6+4"
+      },
+      {
+        "attackName": "Hand Crossbow",
+        "attackDamage": "7",
+        "attackToHit": "1d6+4"
+      }
+    ],
+    "meta": {
+      "legacy": true
+    }
+  },
+  {
+    "_id": "a6c907a2-b47b-48cd-a332-7eafacb01fc2",
+    "name": "Drow Mage",
+    "ac": 45,
+    "hp": 12,
+    "attacks": [
+      {
+        "attackName": "Staff",
+        "attackDamage": "2",
+        "attackToHit": "1d6–1/1d6"
+      },
+      {
+        "attackName": "Staff(Two–handed)",
+        "attackDamage": "2",
+        "attackToHit": "1d8–1/1d6"
+      }
+    ],
+    "meta": {
+      "legacy": true
+    }
+  },
+  {
+    "_id": "f6057d97-112b-495e-8f00-0687e231d46f",
+    "name": "Drow Priestess of Lolth",
+    "ac": 71,
+    "hp": 16,
+    "attacks": [
+      {
+        "attackName": "Scourge",
+        "attackDamage": "5",
+        "attackToHit": "1d6+2/5d6"
+      }
+    ],
+    "meta": {
+      "legacy": true
+    }
+  },
+  {
+    "_id": "f49493f6-3a56-42fb-a01b-0e40eb41e876",
+    "name": "Dryad",
+    "ac": 22,
+    "hp": 11,
+    "attacks": [
+      {
+        "attackName": "Club",
+        "attackDamage": "2",
+        "attackToHit": "1d4"
+      },
+      {
+        "attackName": "Club(Shillelagh)",
+        "attackDamage": "6",
+        "attackToHit": "1d8+4"
+      }
+    ],
+    "meta": {
+      "legacy": true
+    }
+  },
+  {
+    "_id": "df58e1f9-cc88-4a09-87a4-f902d757e5b4",
+    "name": "Duergar",
+    "ac": 26,
+    "hp": 16,
+    "attacks": [
+      {
+        "attackName": "War Pick",
+        "attackDamage": "4",
+        "attackToHit": "1d8+2"
+      },
+      {
+        "attackName": "War Pick(Enlarged)",
+        "attackDamage": "4",
+        "attackToHit": "2d8+2"
+      },
+      {
+        "attackName": "Javelin",
+        "attackDamage": "4",
+        "attackToHit": "1d6+2"
+      },
+      {
+        "attackName": "Javelin(Enlarged)",
+        "attackDamage": "4",
+        "attackToHit": "2d6+2"
+      }
+    ],
+    "meta": {
+      "legacy": true
+    }
+  },
+  {
+    "_id": "e683c1e9-8152-4f2d-81bb-443a402d303d",
+    "name": "Duodrone",
+    "ac": 11,
+    "hp": 15,
+    "attacks": [
+      {
+        "attackName": "Fist",
+        "attackDamage": "2",
+        "attackToHit": "1d4"
+      },
+      {
+        "attackName": "Javelin",
+        "attackDamage": "3",
+        "attackToHit": "1d6+1"
+      }
+    ],
+    "meta": {
+      "legacy": true
+    }
+  },
+  {
+    "_id": "290ca14d-f886-44f5-b9b7-bdd3b2cc83bd",
+    "name": "Dust Mephit",
+    "ac": 17,
+    "hp": 12,
+    "attacks": [
+      {
+        "attackName": "Claws",
+        "attackDamage": "4",
+        "attackToHit": "1d4+2"
+      }
+    ],
+    "meta": {
+      "legacy": true
+    }
+  },
+  {
+    "_id": "9ee06167-02f4-44f8-bf29-de61d22d21cc",
+    "name": "Earth Elemental",
+    "ac": 126,
+    "hp": 17,
+    "attacks": [
+      {
+        "attackName": "Slam",
+        "attackDamage": "8",
+        "attackToHit": "2d8+5"
+      }
+    ],
+    "meta": {
+      "legacy": true
+    }
+  },
+  {
+    "_id": "9f17ba5f-f538-43e0-97a9-0c9b1c3e86e1",
+    "name": "Efreeti",
+    "ac": 200,
+    "hp": 17,
+    "attacks": [
+      {
+        "attackName": "Scimitar",
+        "attackDamage": "10",
+        "attackToHit": "2d6+6/2d6"
+      },
+      {
+        "attackName": "Hurl Flame",
+        "attackDamage": "7",
+        "attackToHit": "5d6"
+      }
+    ],
+    "meta": {
+      "legacy": true
+    }
+  },
+  {
+    "_id": "05c69de5-25c0-464c-bd61-9daac1f512cb",
+    "name": "Empyrean",
+    "ac": 313,
+    "hp": 22,
+    "attacks": [
+      {
+        "attackName": "Maul",
+        "attackDamage": "17",
+        "attackToHit": "6d6+10"
+      },
+      {
+        "attackName": "Bolt",
+        "attackDamage": "15",
+        "attackToHit": "7d6"
+      }
+    ],
+    "meta": {
+      "legacy": true
+    }
+  },
+  {
+    "_id": "7d91df6e-bf31-4728-997e-88b568601b80",
+    "name": "Erinyes",
+    "ac": 153,
+    "hp": 18,
+    "attacks": [
+      {
+        "attackName": "Longsword(1H)",
+        "attackDamage": "8",
+        "attackToHit": "1d8+4/3d8"
+      },
+      {
+        "attackName": "Longsword(2H)",
+        "attackDamage": "8",
+        "attackToHit": "1d10+4/3d6"
+      },
+      {
+        "attackName": "Longbow",
+        "attackDamage": "7",
+        "attackToHit": "1d8+3+3d8"
+      }
+    ],
+    "meta": {
+      "legacy": true
+    }
+  },
+  {
+    "_id": "c5f3c796-cf15-41b1-929f-ae3790835a9a",
+    "name": "Ettercap",
+    "ac": 44,
+    "hp": 13,
+    "attacks": [
+      {
+        "attackName": "Bite",
+        "attackDamage": "4",
+        "attackToHit": "1d8+2/1d8"
+      },
+      {
+        "attackName": "Claws",
+        "attackDamage": "4",
+        "attackToHit": "2d4+2"
+      }
+    ],
+    "meta": {
+      "legacy": true
+    }
+  },
+  {
+    "_id": "3b94deea-4624-4afb-9366-3b905bf651aa",
+    "name": "Ettin",
+    "ac": 85,
+    "hp": 12,
+    "attacks": [
+      {
+        "attackName": "Battleaxe",
+        "attackDamage": "7",
+        "attackToHit": "2d8+5"
+      },
+      {
+        "attackName": "Morningstar",
+        "attackDamage": "7",
+        "attackToHit": "2d8+5"
+      }
+    ],
+    "meta": {
+      "legacy": true
+    }
+  },
+  {
+    "_id": "8885673e-c199-433f-93af-e6642249b07e",
+    "name": "Faerie Dragon",
+    "ac": 14,
+    "hp": 15,
+    "attacks": [
+      {
+        "attackName": "Bite",
+        "attackDamage": "7",
+        "attackToHit": "0d0+1"
+      }
+    ],
+    "meta": {
+      "legacy": true
+    }
+  },
+  {
+    "_id": "dc67154b-b3a3-4022-8f64-841aeda0a208",
+    "name": "Fire Elemental",
+    "ac": 102,
+    "hp": 13,
+    "attacks": [
+      {
+        "attackName": "Touch",
+        "attackDamage": "6",
+        "attackToHit": "2d6+3"
+      }
+    ],
+    "meta": {
+      "legacy": true
+    }
+  },
+  {
+    "_id": "743fe119-9798-45f2-80a9-190fc45e6238",
+    "name": "Fire Giant",
+    "ac": 162,
+    "hp": 18,
+    "attacks": [
+      {
+        "attackName": "Greatsword",
+        "attackDamage": "11",
+        "attackToHit": "6d6+7"
+      },
+      {
+        "attackName": "Rock",
+        "attackDamage": "11",
+        "attackToHit": "4d10+7"
+      }
+    ],
+    "meta": {
+      "legacy": true
+    }
+  },
+  {
+    "_id": "da90fbd1-981c-48f0-a8ff-a1ca5e93c627",
+    "name": "Fire Snake",
+    "ac": 22,
+    "hp": 14,
+    "attacks": [
+      {
+        "attackName": "Bite",
+        "attackDamage": "3",
+        "attackToHit": "1d4+1/1d6"
+      },
+      {
+        "attackName": "Tail",
+        "attackDamage": "3",
+        "attackToHit": "1d4+1/1d6"
+      }
+    ],
+    "meta": {
+      "legacy": true
+    }
+  },
+  {
+    "_id": "bcb70f61-5fc4-48d5-a241-b0feafbf6405",
+    "name": "Flameskull",
+    "ac": 40,
+    "hp": 13,
+    "attacks": [
+      {
+        "attackName": "Fire Ray",
+        "attackDamage": "5",
+        "attackToHit": "3d6"
+      }
+    ],
+    "meta": {
+      "legacy": true
+    }
+  },
+  {
+    "_id": "34644a35-fd73-4669-abec-733c3599a698",
+    "name": "Flesh Golem",
+    "ac": 93,
+    "hp": 9,
+    "attacks": [
+      {
+        "attackName": "Slam",
+        "attackDamage": "7",
+        "attackToHit": "2d8+4"
+      }
+    ],
+    "meta": {
+      "legacy": true
+    }
+  },
+  {
+    "_id": "f9eee3a2-75e3-4f52-ab25-303b4f2fbf2b",
+    "name": "Flumph",
+    "ac": 7,
+    "hp": 12,
+    "attacks": [
+      {
+        "attackName": "Tendrils",
+        "attackDamage": "4",
+        "attackToHit": "1d4+2/1d4"
+      }
+    ],
+    "meta": {
+      "legacy": true
+    }
+  },
+  {
+    "_id": "b7c05083-b4d4-4673-9113-56dfdff11cac",
+    "name": "Flying Sword",
+    "ac": 17,
+    "hp": 17,
+    "attacks": [
+      {
+        "attackName": "Longsword",
+        "attackDamage": "3",
+        "attackToHit": "1d8+1"
+      }
+    ],
+    "meta": {
+      "legacy": true
+    }
+  },
+  {
+    "_id": "68f7f847-ae98-45c0-bd91-c2d4a99d2f4c",
+    "name": "Fomorian",
+    "ac": 149,
+    "hp": 14,
+    "attacks": [
+      {
+        "attackName": "Greatclub",
+        "attackDamage": "9",
+        "attackToHit": "3d8+6"
+      }
+    ],
+    "meta": {
+      "legacy": true
+    }
+  },
+  {
+    "_id": "5f3b595e-3b1f-4d78-b230-7ce55b888097",
+    "name": "Frost Giant",
+    "ac": 138,
+    "hp": 15,
+    "attacks": [
+      {
+        "attackName": "Greataxe",
+        "attackDamage": "9",
+        "attackToHit": "3d12+6"
+      },
+      {
+        "attackName": "Rock",
+        "attackDamage": "9",
+        "attackToHit": "4d10+6"
+      }
+    ],
+    "meta": {
+      "legacy": true
+    }
+  },
+  {
+    "_id": "b8c9ee3f-3011-452a-88eb-be113242faa7",
+    "name": "Galeb Duhr",
+    "ac": 85,
+    "hp": 16,
+    "attacks": [
+      {
+        "attackName": "Slam",
+        "attackDamage": "8",
+        "attackToHit": "2d6+5"
+      }
+    ],
+    "meta": {
+      "legacy": true
+    }
+  },
+  {
+    "_id": "b9d21f91-7a63-4105-92c8-e002bffabccf",
+    "name": "Gargoyle",
+    "ac": 52,
+    "hp": 15,
+    "attacks": [
+      {
+        "attackName": "Bite",
+        "attackDamage": "4",
+        "attackToHit": "1d6+2"
+      },
+      {
+        "attackName": "Claws",
+        "attackDamage": "4",
+        "attackToHit": "1d6+2"
+      }
+    ],
+    "meta": {
+      "legacy": true
+    }
+  },
+  {
+    "_id": "6f4109a1-2332-4c62-af19-41e66749508c",
+    "name": "Gas Spore",
+    "ac": 1,
+    "hp": 5,
+    "attacks": [
+      {
+        "attackName": "Touch",
+        "attackDamage": "0",
+        "attackToHit": "0d0+1"
+      }
+    ],
+    "meta": {
+      "legacy": true
+    }
+  },
+  {
+    "_id": "a720a2e1-3ceb-47d5-84dd-bbc67226b50d",
+    "name": "Gelatinous Cube",
+    "ac": 84,
+    "hp": 6,
+    "attacks": [
+      {
+        "attackName": "Pseudopod",
+        "attackDamage": "4",
+        "attackToHit": "3d6"
+      }
+    ],
+    "meta": {
+      "legacy": true
+    }
+  },
+  {
+    "_id": "f2ad115c-7bfa-46f7-a70f-7df35a5e9214",
+    "name": "Ghost",
+    "ac": 45,
+    "hp": 11,
+    "attacks": [
+      {
+        "attackName": "Withering Touch",
+        "attackDamage": "5",
+        "attackToHit": "4d6+3"
+      }
+    ],
+    "meta": {
+      "legacy": true
+    }
+  },
+  {
+    "_id": "45b207cd-52c3-4e06-9018-0b9740a8b048",
+    "name": "Ghast",
+    "ac": 36,
+    "hp": 13,
+    "attacks": [
+      {
+        "attackName": "Bite",
+        "attackDamage": "3",
+        "attackToHit": "2d8+3"
+      },
+      {
+        "attackName": "Claws",
+        "attackDamage": "5",
+        "attackToHit": "2d6+3"
+      }
+    ],
+    "meta": {
+      "legacy": true
+    }
+  },
+  {
+    "_id": "821c7ffb-1938-432d-a7b7-2182056d9c9a",
+    "name": "Ghoul",
+    "ac": 22,
+    "hp": 12,
+    "attacks": [
+      {
+        "attackName": "Bite",
+        "attackDamage": "2",
+        "attackToHit": "2d6+2"
+      },
+      {
+        "attackName": "Claws",
+        "attackDamage": "4",
+        "attackToHit": "2d4+2"
+      }
+    ],
+    "meta": {
+      "legacy": true
+    }
+  },
+  {
+    "_id": "dddee7a0-2bbc-48b5-b9a0-9f8b47441882",
+    "name": "Gibbering Mouther",
+    "ac": 67,
+    "hp": 9,
+    "attacks": [
+      {
+        "attackName": "Bites",
+        "attackDamage": "2",
+        "attackToHit": "5d6"
+      }
+    ],
+    "meta": {
+      "legacy": true
+    }
+  },
+  {
+    "_id": "f1ff9dbd-2990-48fc-a57c-f723512a67f4",
+    "name": "Githyanki Warrior",
+    "ac": 49,
+    "hp": 17,
+    "attacks": [
+      {
+        "attackName": "Greatsword",
+        "attackDamage": "4",
+        "attackToHit": "2d6+2/2d6"
+      }
+    ],
+    "meta": {
+      "legacy": true
+    }
+  },
+  {
+    "_id": "c30a2843-1d4c-4024-b968-33fd30b3ab9f",
+    "name": "Githyanki Knight",
+    "ac": 91,
+    "hp": 18,
+    "attacks": [
+      {
+        "attackName": "Silver Greatsword",
+        "attackDamage": "9",
+        "attackToHit": "2d6+6/3d6"
+      }
+    ],
+    "meta": {
+      "legacy": true
+    }
+  },
+  {
+    "_id": "caaa17b3-a461-42ca-8317-17b6004fd3f7",
+    "name": "Githzerai Monk",
+    "ac": 38,
+    "hp": 14,
+    "attacks": [
+      {
+        "attackName": "Unarmed Strike",
+        "attackDamage": "4",
+        "attackToHit": "1d8+2/2d8"
+      }
+    ],
+    "meta": {
+      "legacy": true
+    }
+  },
+  {
+    "_id": "cfaaef5d-1cf9-477f-ad29-f513920500cf",
+    "name": "Githzerai Zerth",
+    "ac": 84,
+    "hp": 17,
+    "attacks": [
+      {
+        "attackName": "Unarmed Strike",
+        "attackDamage": "7",
+        "attackToHit": "2d6+4/3d8"
+      }
+    ],
+    "meta": {
+      "legacy": true
+    }
+  },
+  {
+    "_id": "7920f0f2-324e-4d36-a2d9-59259f6c5c1e",
+    "name": "Glabrezu",
+    "ac": 157,
+    "hp": 17,
+    "attacks": [
+      {
+        "attackName": "Pincer",
+        "attackDamage": "9",
+        "attackToHit": "2d10+5"
+      },
+      {
+        "attackName": "Fist",
+        "attackDamage": "9",
+        "attackToHit": "2d4+2"
+      }
+    ],
+    "meta": {
+      "legacy": true
+    }
+  },
+  {
+    "_id": "40336e59-f456-4941-b674-b3efdd5d0a96",
+    "name": "Gnoll",
+    "ac": 22,
+    "hp": 15,
+    "attacks": [
+      {
+        "attackName": "Bite",
+        "attackDamage": "4",
+        "attackToHit": "1d4+2"
+      },
+      {
+        "attackName": "Spear(1H)",
+        "attackDamage": "4",
+        "attackToHit": "1d6+2"
+      },
+      {
+        "attackName": "Spear(2H)",
+        "attackDamage": "4",
+        "attackToHit": "1d8+2"
+      },
+      {
+        "attackName": "Longbow",
+        "attackDamage": "3",
+        "attackToHit": "1d8+1"
+      }
+    ],
+    "meta": {
+      "legacy": true
+    }
+  },
+  {
+    "_id": "fb7d7684-3699-4a8b-be74-ec6eec751c8d",
+    "name": "Gnoll Pack Lord",
+    "ac": 49,
+    "hp": 15,
+    "attacks": [
+      {
+        "attackName": "Bite",
+        "attackDamage": "5",
+        "attackToHit": "1d4+3"
+      },
+      {
+        "attackName": "Glaive",
+        "attackDamage": "5",
+        "attackToHit": "1d10+3"
+      },
+      {
+        "attackName": "Longbow",
+        "attackDamage": "4",
+        "attackToHit": "1d8+2"
+      }
+    ],
+    "meta": {
+      "legacy": true
+    }
+  },
+  {
+    "_id": "24b1684b-62b1-4242-af7c-d403c5c9e2d7",
+    "name": "Gnoll Fang of Yeenoghu",
+    "ac": 65,
+    "hp": 14,
+    "attacks": [
+      {
+        "attackName": "Bite",
+        "attackDamage": "5",
+        "attackToHit": "1d6+3"
+      },
+      {
+        "attackName": "Claw",
+        "attackDamage": "5",
+        "attackToHit": "1d8+3"
+      }
+    ],
+    "meta": {
+      "legacy": true
+    }
+  },
+  {
+    "_id": "5b5934a4-f369-4527-96cf-e36aa6d5d508",
+    "name": "Goblin",
+    "ac": 7,
+    "hp": 15,
+    "attacks": [
+      {
+        "attackName": "Scimitar",
+        "attackDamage": "4",
+        "attackToHit": "1d6+2"
+      },
+      {
+        "attackName": "Shortbow",
+        "attackDamage": "4",
+        "attackToHit": "1d6+2"
+      }
+    ],
+    "meta": {
+      "legacy": true
+    }
+  },
+  {
+    "_id": "7d1f073a-4f41-4eb3-981d-e0b826718116",
+    "name": "Goblin Boss",
+    "ac": 21,
+    "hp": 17,
+    "attacks": [
+      {
+        "attackName": "Scimitar",
+        "attackDamage": "4",
+        "attackToHit": "1d6+2"
+      },
+      {
+        "attackName": "Javelin",
+        "attackDamage": "2",
+        "attackToHit": "1d6"
+      }
+    ],
+    "meta": {
+      "legacy": true
+    }
+  },
+  {
+    "_id": "2e34ee4d-35ec-42ba-9fba-f1b420496008",
+    "name": "Gold Dragon Wyrmling",
+    "ac": 75,
+    "hp": 17,
+    "attacks": [
+      {
+        "attackName": "Bite",
+        "attackDamage": "6",
+        "attackToHit": "1d10++4"
+      }
+    ],
+    "meta": {
+      "legacy": true
+    }
+  },
+  {
+    "_id": "aff8aff4-3c3e-4f23-8739-1988613d54a8",
+    "name": "Gorgon",
+    "ac": 114,
+    "hp": 19,
+    "attacks": [
+      {
+        "attackName": "Gore",
+        "attackDamage": "8",
+        "attackToHit": "2d12+5"
+      },
+      {
+        "attackName": "Hooves",
+        "attackDamage": "8",
+        "attackToHit": "2d10+5"
+      }
+    ],
+    "meta": {
+      "legacy": true
+    }
+  },
+  {
+    "_id": "3315d59d-1745-405e-8b5c-a6d3f676aa65",
+    "name": "Goristro",
+    "ac": 310,
+    "hp": 19,
+    "attacks": [
+      {
+        "attackName": "Fist",
+        "attackDamage": "13",
+        "attackToHit": "3d8+7"
+      },
+      {
+        "attackName": "Hoof",
+        "attackDamage": "13",
+        "attackToHit": "3d10+7"
+      },
+      {
+        "attackName": "Gore",
+        "attackDamage": "13",
+        "attackToHit": "7d10+7"
+      }
+    ],
+    "meta": {
+      "legacy": true
+    }
+  },
+  {
+    "_id": "ffe80fa8-bddb-4cd3-8bcd-e9e16bcad67b",
+    "name": "Gray Ooze",
+    "ac": 22,
+    "hp": 8,
+    "attacks": [
+      {
+        "attackName": "Pseudopod",
+        "attackDamage": "3",
+        "attackToHit": "1d6+1/2d6"
+      }
+    ],
+    "meta": {
+      "legacy": true
+    }
+  },
+  {
+    "_id": "bce820aa-2918-4d07-a886-668f6425036c",
+    "name": "Green Dragon Wyrmling",
+    "ac": 38,
+    "hp": 17,
+    "attacks": [
+      {
+        "attackName": "Bite",
+        "attackDamage": "4",
+        "attackToHit": "1d10+2/1d6"
+      }
+    ],
+    "meta": {
+      "legacy": true
+    }
+  },
+  {
+    "_id": "6e6b67b1-2207-4ec6-b3d6-fc663898d189",
+    "name": "Green Hag",
+    "ac": 82,
+    "hp": 17,
+    "attacks": [
+      {
+        "attackName": "Claws",
+        "attackDamage": "6",
+        "attackToHit": "2d8+4"
+      }
+    ],
+    "meta": {
+      "legacy": true
+    }
+  },
+  {
+    "_id": "b80a84b1-10f7-441b-9041-ad7cb3737343",
+    "name": "Green Slaad",
+    "ac": 127,
+    "hp": 16,
+    "attacks": [
+      {
+        "attackName": "Bite",
+        "attackDamage": "7",
+        "attackToHit": "2d6+4"
+      },
+      {
+        "attackName": "Claw",
+        "attackDamage": "7",
+        "attackToHit": "1d6+4"
+      },
+      {
+        "attackName": "Staff",
+        "attackDamage": "7",
+        "attackToHit": "2d6+4"
+      },
+      {
+        "attackName": "Hurl Flame",
+        "attackDamage": "4",
+        "attackToHit": "3d6"
+      }
+    ],
+    "meta": {
+      "legacy": true
+    }
+  },
+  {
+    "_id": "b041c13b-f194-4196-ae05-939dedb5cb64",
+    "name": "Gray Slaad",
+    "ac": 127,
+    "hp": 18,
+    "attacks": [
+      {
+        "attackName": "Bite",
+        "attackDamage": "7",
+        "attackToHit": "1d6+3"
+      },
+      {
+        "attackName": "Claws",
+        "attackDamage": "7",
+        "attackToHit": "1d10+3"
+      },
+      {
+        "attackName": "Greatsword",
+        "attackDamage": "7",
+        "attackToHit": "2d6+3"
+      }
+    ],
+    "meta": {
+      "legacy": true
+    }
+  },
+  {
+    "_id": "4e2b41eb-cfe2-43c9-84db-bbd90210b063",
+    "name": "Grell",
+    "ac": 55,
+    "hp": 12,
+    "attacks": [
+      {
+        "attackName": "Tentacles",
+        "attackDamage": "4",
+        "attackToHit": "1d10+2"
+      },
+      {
+        "attackName": "Beak",
+        "attackDamage": "4",
+        "attackToHit": "2d4+2"
+      }
+    ],
+    "meta": {
+      "legacy": true
+    }
+  },
+  {
+    "_id": "c8c89fa9-6454-4770-bfd8-9d1b9481fe0d",
+    "name": "Grick",
+    "ac": 27,
+    "hp": 14,
+    "attacks": [
+      {
+        "attackName": "Tentacles",
+        "attackDamage": "4",
+        "attackToHit": "2d6+2"
+      },
+      {
+        "attackName": "Beak",
+        "attackDamage": "4",
+        "attackToHit": "1d6+2"
+      }
+    ],
+    "meta": {
+      "legacy": true
+    }
+  },
+  {
+    "_id": "fd01162e-f1c5-4dc3-9bd5-b7d0543c596e",
+    "name": "Grick Alpha",
+    "ac": 75,
+    "hp": 18,
+    "attacks": [
+      {
+        "attackName": "Tail",
+        "attackDamage": "7",
+        "attackToHit": "2d6+4"
+      },
+      {
+        "attackName": "Tentacles",
+        "attackDamage": "7",
+        "attackToHit": "4d8+5"
+      },
+      {
+        "attackName": "Beak",
+        "attackDamage": "7",
+        "attackToHit": "2d8+4"
+      }
+    ],
+    "meta": {
+      "legacy": true
+    }
+  },
+  {
+    "_id": "4993321d-6413-4ba1-8e51-0304a7ae0ebd",
+    "name": "Griffon",
+    "ac": 59,
+    "hp": 12,
+    "attacks": [
+      {
+        "attackName": "Beak",
+        "attackDamage": "6",
+        "attackToHit": "1d8+4"
+      },
+      {
+        "attackName": "Claws",
+        "attackDamage": "6",
+        "attackToHit": "2d6+4"
+      }
+    ],
+    "meta": {
+      "legacy": true
+    }
+  },
+  {
+    "_id": "400a7758-18b5-45e3-be5f-5e8f177b0b2b",
+    "name": "Grimlock",
+    "ac": 11,
+    "hp": 11,
+    "attacks": [
+      {
+        "attackName": "Spiked Bone Club",
+        "attackDamage": "5",
+        "attackToHit": "1d4+3/1d4"
+      }
+    ],
+    "meta": {
+      "legacy": true
+    }
+  },
+  {
+    "_id": "77d2afc2-156b-4777-90a2-864c415ef9aa",
+    "name": "Guardian Naga",
+    "ac": 127,
+    "hp": 18,
+    "attacks": [
+      {
+        "attackName": "Bite",
+        "attackDamage": "8",
+        "attackToHit": "1d8+4"
+      },
+      {
+        "attackName": "Spit Poison",
+        "attackDamage": "8",
+        "attackToHit": "10d8"
+      }
+    ],
+    "meta": {
+      "legacy": true
+    }
+  },
+  {
+    "_id": "e5a0005c-82f0-4c7e-9f00-8a9c889ea7be",
+    "name": "Gynosphinx",
+    "ac": 136,
+    "hp": 17,
+    "attacks": [
+      {
+        "attackName": "Claw",
+        "attackDamage": "8",
+        "attackToHit": "2d8+4"
+      }
+    ],
+    "meta": {
+      "legacy": true
+    }
+  },
+  {
+    "_id": "32eaa035-82c8-4a5c-97b4-353f1cdcb6e7",
+    "name": "Half-Ogre",
+    "ac": 30,
+    "hp": 12,
+    "attacks": [
+      {
+        "attackName": "Battleaxe",
+        "attackDamage": "5",
+        "attackToHit": "2d8+3"
+      },
+      {
+        "attackName": "Javelin",
+        "attackDamage": "5",
+        "attackToHit": "2d6+3"
+      }
+    ],
+    "meta": {
+      "legacy": true
+    }
+  },
+  {
+    "_id": "50737990-01c5-49e5-946a-d30f48bf134e",
+    "name": "Half-Red Dragon Veteran",
+    "ac": 65,
+    "hp": 18,
+    "attacks": [
+      {
+        "attackName": "Longsword(1H)",
+        "attackDamage": "5",
+        "attackToHit": "1d8+3"
+      },
+      {
+        "attackName": "Longsword(2H)",
+        "attackDamage": "5",
+        "attackToHit": "1d10+3"
+      },
+      {
+        "attackName": "Shortsword",
+        "attackDamage": "5",
+        "attackToHit": "1d6+3"
+      },
+      {
+        "attackName": "Heavy Crossbow",
+        "attackDamage": "3",
+        "attackToHit": "1d10+1"
+      }
+    ],
+    "meta": {
+      "legacy": true
+    }
+  },
+  {
+    "_id": "44a49523-d3da-4ee8-9c83-bbeea5426007",
+    "name": "Harpy",
+    "ac": 38,
+    "hp": 11,
+    "attacks": [
+      {
+        "attackName": "Claws",
+        "attackDamage": "3",
+        "attackToHit": "2d4+1"
+      },
+      {
+        "attackName": "Club",
+        "attackDamage": "3",
+        "attackToHit": "1d4+1"
+      }
+    ],
+    "meta": {
+      "legacy": true
+    }
+  },
+  {
+    "_id": "a8fd4f0e-fbae-4788-92a7-e29c0d5aee23",
+    "name": "Hell Hound",
+    "ac": 45,
+    "hp": 15,
+    "attacks": [
+      {
+        "attackName": "Bite",
+        "attackDamage": "5",
+        "attackToHit": "1d8+3/2d6"
+      }
+    ],
+    "meta": {
+      "legacy": true
+    }
+  },
+  {
+    "_id": "c8b91f77-8ed5-4f6b-941e-e437ef675e5a",
+    "name": "Helmed Horror",
+    "ac": 60,
+    "hp": 20,
+    "attacks": [
+      {
+        "attackName": "Longsword(1H)",
+        "attackDamage": "6",
+        "attackToHit": "1d8+4"
+      },
+      {
+        "attackName": "Longsword(2H)",
+        "attackDamage": "6",
+        "attackToHit": "1d10+4"
+      }
+    ],
+    "meta": {
+      "legacy": true
+    }
+  },
+  {
+    "_id": "8c2ab3d0-0978-48b1-988d-d8a836eaf70f",
+    "name": "Hezrou",
+    "ac": 136,
+    "hp": 16,
+    "attacks": [
+      {
+        "attackName": "Bite",
+        "attackDamage": "7",
+        "attackToHit": "2d10+4"
+      },
+      {
+        "attackName": "Claw",
+        "attackDamage": "7",
+        "attackToHit": "2d6+4"
+      }
+    ],
+    "meta": {
+      "legacy": true
+    }
+  },
+  {
+    "_id": "9f846c9f-ea2d-4e3d-9637-4af675fe9ea7",
+    "name": "Hill Giant",
+    "ac": 105,
+    "hp": 13,
+    "attacks": [
+      {
+        "attackName": "Greatclub",
+        "attackDamage": "8",
+        "attackToHit": "3d8+5"
+      },
+      {
+        "attackName": "Rock",
+        "attackDamage": "8",
+        "attackToHit": "3d10+5"
+      }
+    ],
+    "meta": {
+      "legacy": true
+    }
+  },
+  {
+    "_id": "3d3b3459-3ce2-4ef8-8914-76c82c04348f",
+    "name": "Hippogriff",
+    "ac": 19,
+    "hp": 11,
+    "attacks": [
+      {
+        "attackName": "Beak",
+        "attackDamage": "5",
+        "attackToHit": "1d10+3"
+      },
+      {
+        "attackName": "Claws",
+        "attackDamage": "5",
+        "attackToHit": "2d6+3"
+      }
+    ],
+    "meta": {
+      "legacy": true
+    }
+  },
+  {
+    "_id": "c08b8365-5fe7-4906-8613-eaebc7baaded",
+    "name": "Hobgoblin",
+    "ac": 11,
+    "hp": 18,
+    "attacks": [
+      {
+        "attackName": "Longsword(1H)",
+        "attackDamage": "3",
+        "attackToHit": "1d8+1"
+      },
+      {
+        "attackName": "Longsword(2H)",
+        "attackDamage": "3",
+        "attackToHit": "1d10+1"
+      },
+      {
+        "attackName": "Longbow",
+        "attackDamage": "3",
+        "attackToHit": "1d8+1"
+      }
+    ],
+    "meta": {
+      "legacy": true
+    }
+  },
+  {
+    "_id": "085ded7c-e4dd-4cc1-931a-484e328e2e82",
+    "name": "Hobgoblin Captain",
+    "ac": 39,
+    "hp": 17,
+    "attacks": [
+      {
+        "attackName": "Greatsword",
+        "attackDamage": "4",
+        "attackToHit": "2d6+2"
+      },
+      {
+        "attackName": "Javelin",
+        "attackDamage": "4",
+        "attackToHit": "1d6+2"
+      }
+    ],
+    "meta": {
+      "legacy": true
+    }
+  },
+  {
+    "_id": "e4e41df7-32ad-4244-89f4-c2f5ec89c384",
+    "name": "Hobgoblin Warlord",
+    "ac": 97,
+    "hp": 20,
+    "attacks": [
+      {
+        "attackName": "Longsword(1H)",
+        "attackDamage": "9",
+        "attackToHit": "1d8+3"
+      },
+      {
+        "attackName": "Longsword(2H)",
+        "attackDamage": "9",
+        "attackToHit": "1d10+3"
+      },
+      {
+        "attackName": "Shield Bash",
+        "attackDamage": "9",
+        "attackToHit": "1d4+3"
+      },
+      {
+        "attackName": "Javelin",
+        "attackDamage": "9",
+        "attackToHit": "1d6+3"
+      }
+    ],
+    "meta": {
+      "legacy": true
+    }
+  },
+  {
+    "_id": "635a2899-d520-4bee-8745-887a814e6138",
+    "name": "Homonculus",
+    "ac": 5,
+    "hp": 13,
+    "attacks": [
+      {
+        "attackName": "Bite",
+        "attackDamage": "4",
+        "attackToHit": "0d0+1"
+      }
+    ],
+    "meta": {
+      "legacy": true
+    }
+  },
+  {
+    "_id": "b87d2520-5443-407d-a954-b5626c7338f6",
+    "name": "Hook Horror",
+    "ac": 75,
+    "hp": 15,
+    "attacks": [
+      {
+        "attackName": "Hook",
+        "attackDamage": "6",
+        "attackToHit": "2d6+4"
+      }
+    ],
+    "meta": {
+      "legacy": true
+    }
+  },
+  {
+    "_id": "a16d6624-ba8c-4927-8a9e-9ae8d6fe65c5",
+    "name": "Horned Devil",
+    "ac": 178,
+    "hp": 18,
+    "attacks": [
+      {
+        "attackName": "Fork",
+        "attackDamage": "10",
+        "attackToHit": "2d8+6"
+      },
+      {
+        "attackName": "Tail",
+        "attackDamage": "10",
+        "attackToHit": "1d8+6"
+      },
+      {
+        "attackName": "Hurl Flame",
+        "attackDamage": "7",
+        "attackToHit": "4d6"
+      }
+    ],
+    "meta": {
+      "legacy": true
+    }
+  },
+  {
+    "_id": "229948f3-d580-40fe-a896-bf06c1c28fa5",
+    "name": "Hydra",
+    "ac": 172,
+    "hp": 15,
+    "attacks": [
+      {
+        "attackName": "Bite",
+        "attackDamage": "8",
+        "attackToHit": "1d10+5"
+      }
+    ],
+    "meta": {
+      "legacy": true
+    }
+  },
+  {
+    "_id": "d5dde839-1971-4ef7-b7c0-18f250f6c5fe",
+    "name": "Ice Devil",
+    "ac": 180,
+    "hp": 18,
+    "attacks": [
+      {
+        "attackName": "Bite",
+        "attackDamage": "10",
+        "attackToHit": "2d6+5/3d6"
+      },
+      {
+        "attackName": "Claws",
+        "attackDamage": "10",
+        "attackToHit": "2d4+5/3d6"
+      },
+      {
+        "attackName": "Tail",
+        "attackDamage": "10",
+        "attackToHit": "2d6+5/3d6"
+      }
+    ],
+    "meta": {
+      "legacy": true
+    }
+  },
+  {
+    "_id": "d70db717-a3de-4385-a7dd-52720b1e87e2",
+    "name": "Ice Mephit",
+    "ac": 21,
+    "hp": 11,
+    "attacks": [
+      {
+        "attackName": "Claws",
+        "attackDamage": "3",
+        "attackToHit": "1d4+1/1d4"
+      }
+    ],
+    "meta": {
+      "legacy": true
+    }
+  },
+  {
+    "_id": "94d4deae-c62b-4ef3-8123-cd113c3862e9",
+    "name": "Imp",
+    "ac": 10,
+    "hp": 13,
+    "attacks": [
+      {
+        "attackName": "Sting(Bite)",
+        "attackDamage": "5",
+        "attackToHit": "1d4+3"
+      }
+    ],
+    "meta": {
+      "legacy": true
+    }
+  },
+  {
+    "_id": "5e587cce-4976-4529-8fec-669b845cd89e",
+    "name": "Intellect Devourer",
+    "ac": 21,
+    "hp": 12,
+    "attacks": [
+      {
+        "attackName": "Claws",
+        "attackDamage": "4",
+        "attackToHit": "2d4+2"
+      }
+    ],
+    "meta": {
+      "legacy": true
+    }
+  },
+  {
+    "_id": "9da36cde-003a-4088-958c-68ed3bc1e09b",
+    "name": "Invisible Stalker",
+    "ac": 104,
+    "hp": 14,
+    "attacks": [
+      {
+        "attackName": "Slam",
+        "attackDamage": "6",
+        "attackToHit": "2d6+3"
+      }
+    ],
+    "meta": {
+      "legacy": true
+    }
+  },
+  {
+    "_id": "d8aa7265-3645-41f8-87ec-ab005dce690d",
+    "name": "Iron Golem",
+    "ac": 210,
+    "hp": 20,
+    "attacks": [
+      {
+        "attackName": "Slam",
+        "attackDamage": "13",
+        "attackToHit": "3d8+7"
+      },
+      {
+        "attackName": "Sword",
+        "attackDamage": "13",
+        "attackToHit": "3d10+7"
+      }
+    ],
+    "meta": {
+      "legacy": true
+    }
+  },
+  {
+    "_id": "ffd739a2-eb83-46d5-9225-2f838295d389",
+    "name": "Jackalwere",
+    "ac": 18,
+    "hp": 12,
+    "attacks": [
+      {
+        "attackName": "Bite",
+        "attackDamage": "4",
+        "attackToHit": "1d4+2"
+      },
+      {
+        "attackName": "Scimitar",
+        "attackDamage": "4",
+        "attackToHit": "1d6+2"
+      }
+    ],
+    "meta": {
+      "legacy": true
+    }
+  },
+  {
+    "_id": "1c5c0858-c2bb-4084-9da9-ea84e1b31a3f",
+    "name": "Kenku",
+    "ac": 13,
+    "hp": 13,
+    "attacks": [
+      {
+        "attackName": "Shortsword",
+        "attackDamage": "5",
+        "attackToHit": "1d6+3"
+      },
+      {
+        "attackName": "Shortbow",
+        "attackDamage": "5",
+        "attackToHit": "1d6+3"
+      }
+    ],
+    "meta": {
+      "legacy": true
+    }
+  },
+  {
+    "_id": "4a139743-fc7a-45ae-b080-5d78a546e7eb",
+    "name": "Kobold",
+    "ac": 5,
+    "hp": 12,
+    "attacks": [
+      {
+        "attackName": "Dagger",
+        "attackDamage": "4",
+        "attackToHit": "1d4+2"
+      },
+      {
+        "attackName": "Sling",
+        "attackDamage": "4",
+        "attackToHit": "1d4+2"
+      }
+    ],
+    "meta": {
+      "legacy": true
+    }
+  },
+  {
+    "_id": "e4c5a911-a143-41a9-bfc0-fbd38b3e1950",
+    "name": "Kraken",
+    "ac": 472,
+    "hp": 18,
+    "attacks": [
+      {
+        "attackName": "Bite",
+        "attackDamage": "17",
+        "attackToHit": "3d8+10"
+      },
+      {
+        "attackName": "Tentacle",
+        "attackDamage": "17",
+        "attackToHit": "3d6+10"
+      }
+    ],
+    "meta": {
+      "legacy": true
+    }
+  },
+  {
+    "_id": "56b6e692-2cdb-49cd-ac8a-2bc8ff78dff0",
+    "name": "Kuo-Toa",
+    "ac": 18,
+    "hp": 13,
+    "attacks": [
+      {
+        "attackName": "Bite",
+        "attackDamage": "3",
+        "attackToHit": "1d4+1"
+      },
+      {
+        "attackName": "Spear(Ranged)",
+        "attackDamage": "3",
+        "attackToHit": "1d6+1"
+      },
+      {
+        "attackName": "Spear(Melee)",
+        "attackDamage": "3",
+        "attackToHit": "1d8+1"
+      },
+      {
+        "attackName": "Net",
+        "attackDamage": "3",
+        "attackToHit": "0d0"
+      }
+    ],
+    "meta": {
+      "legacy": true
+    }
+  },
+  {
+    "_id": "6e6f8034-8a38-4d90-baa6-206337de1bd7",
+    "name": "Kuo-Toa Archpriest",
+    "ac": 97,
+    "hp": 13,
+    "attacks": [
+      {
+        "attackName": "Scepter",
+        "attackDamage": "6",
+        "attackToHit": "1d6+3/4d6"
+      },
+      {
+        "attackName": "Unarmed Strike",
+        "attackDamage": "6",
+        "attackToHit": "1d4+3"
+      }
+    ],
+    "meta": {
+      "legacy": true
+    }
+  },
+  {
+    "_id": "dded4793-1c9e-41b1-8b87-aba7649ddad6",
+    "name": "Kuo-Toa Whip",
+    "ac": 65,
+    "hp": 11,
+    "attacks": [
+      {
+        "attackName": "Bite",
+        "attackDamage": "4",
+        "attackToHit": "1d4+2"
+      },
+      {
+        "attackName": "Pincer Staff",
+        "attackDamage": "4",
+        "attackToHit": "1d6+2"
+      }
+    ],
+    "meta": {
+      "legacy": true
+    }
+  },
+  {
+    "_id": "ed635db7-9f76-4441-b756-5aad23be16fc",
+    "name": "Lamia",
+    "ac": 97,
+    "hp": 13,
+    "attacks": [
+      {
+        "attackName": "Claws",
+        "attackDamage": "5",
+        "attackToHit": "2d10+3"
+      },
+      {
+        "attackName": "Dagger",
+        "attackDamage": "5",
+        "attackToHit": "1d4+3"
+      },
+      {
+        "attackName": "Intoxicating Touch",
+        "attackDamage": "5",
+        "attackToHit": "0d0"
+      }
+    ],
+    "meta": {
+      "legacy": true
+    }
+  },
+  {
+    "_id": "2b2a6a1c-3820-4286-a585-86a1b615fd9e",
+    "name": "Lemure",
+    "ac": 13,
+    "hp": 7,
+    "attacks": [
+      {
+        "attackName": "Fist",
+        "attackDamage": "3",
+        "attackToHit": "1d4"
+      }
+    ],
+    "meta": {
+      "legacy": true
+    }
+  },
+  {
+    "_id": "ea4cb64c-1bfb-4bfc-bf56-603d2cffb4bb",
+    "name": "Lich",
+    "ac": 135,
+    "hp": 17,
+    "attacks": [
+      {
+        "attackName": "Paralyzing Touch",
+        "attackDamage": "12",
+        "attackToHit": "3d6"
+      }
+    ],
+    "meta": {
+      "legacy": true
+    }
+  },
+  {
+    "_id": "65167f0a-f7d4-4f1f-bd1f-5a6e127a7f88",
+    "name": "Lizardfolk",
+    "ac": 22,
+    "hp": 15,
+    "attacks": [
+      {
+        "attackName": "Bite",
+        "attackDamage": "4",
+        "attackToHit": "1d6+2"
+      },
+      {
+        "attackName": "Heavy Club",
+        "attackDamage": "4",
+        "attackToHit": "1d6+2"
+      },
+      {
+        "attackName": "Javelin",
+        "attackDamage": "4",
+        "attackToHit": "1d6+2"
+      },
+      {
+        "attackName": "Spiked Shield",
+        "attackDamage": "4",
+        "attackToHit": "1d6+2"
+      }
+    ],
+    "meta": {
+      "legacy": true
+    }
+  },
+  {
+    "_id": "9df9b478-75d8-4ec7-9ac4-7f82b2784d9e",
+    "name": "Lizardfolk Shaman",
+    "ac": 27,
+    "hp": 13,
+    "attacks": [
+      {
+        "attackName": "Bite(Lizardfolk)",
+        "attackDamage": "4",
+        "attackToHit": "1d6+2"
+      },
+      {
+        "attackName": "Bite(Crocodile)",
+        "attackDamage": "4",
+        "attackToHit": "1d10+2"
+      },
+      {
+        "attackName": "Claws",
+        "attackDamage": "4",
+        "attackToHit": "1d4+2"
+      }
+    ],
+    "meta": {
+      "legacy": true
+    }
+  },
+  {
+    "_id": "ad5474ee-4ca2-49c4-81cd-b1b753da3f50",
+    "name": "Lizard King/Queen",
+    "ac": 78,
+    "hp": 15,
+    "attacks": [
+      {
+        "attackName": "Bite",
+        "attackDamage": "5",
+        "attackToHit": "1d6+3"
+      },
+      {
+        "attackName": "Claws",
+        "attackDamage": "5",
+        "attackToHit": "1d4+3"
+      },
+      {
+        "attackName": "Trident",
+        "attackDamage": "5",
+        "attackToHit": "1d6+3/1d8+3"
+      }
+    ],
+    "meta": {
+      "legacy": true
+    }
+  },
+  {
+    "_id": "a4f81a06-244c-4fda-8def-d39e68d673c7",
+    "name": "Magma Mephit",
+    "ac": 22,
+    "hp": 11,
+    "attacks": [
+      {
+        "attackName": "Claws",
+        "attackDamage": "3",
+        "attackToHit": "1d4+1/1d4"
+      }
+    ],
+    "meta": {
+      "legacy": true
+    }
+  },
+  {
+    "_id": "59992380-d58f-4139-beb3-c799dd700174",
+    "name": "Magmin",
+    "ac": 9,
+    "hp": 14,
+    "attacks": [
+      {
+        "attackName": "Touch",
+        "attackDamage": "4",
+        "attackToHit": "2d6"
+      }
+    ],
+    "meta": {
+      "legacy": true
+    }
+  },
+  {
+    "_id": "40d432f2-4531-4030-9a1a-746f0b121339",
+    "name": "Manes",
+    "ac": 9,
+    "hp": 9,
+    "attacks": [
+      {
+        "attackName": "Claws",
+        "attackDamage": "2",
+        "attackToHit": "2d4"
+      }
+    ],
+    "meta": {
+      "legacy": true
+    }
+  },
+  {
+    "_id": "4d572d87-76aa-40da-9505-41649f3b3068",
+    "name": "Manticore",
+    "ac": 68,
+    "hp": 14,
+    "attacks": [
+      {
+        "attackName": "Bite",
+        "attackDamage": "5",
+        "attackToHit": "1d8+3"
+      },
+      {
+        "attackName": "Claw",
+        "attackDamage": "5",
+        "attackToHit": "1d6+3"
+      },
+      {
+        "attackName": "Tail Spike",
+        "attackDamage": "5",
+        "attackToHit": "1d8+3"
+      }
+    ],
+    "meta": {
+      "legacy": true
+    }
+  },
+  {
+    "_id": "44c29690-c39e-49b2-98c6-57579b8b0fed",
+    "name": "Marid",
+    "ac": 229,
+    "hp": 17,
+    "attacks": [
+      {
+        "attackName": "Trident(1H)",
+        "attackDamage": "10",
+        "attackToHit": "2d6+6"
+      },
+      {
+        "attackName": "Trident(2H)",
+        "attackDamage": "10",
+        "attackToHit": "2d8+6"
+      }
+    ],
+    "meta": {
+      "legacy": true
+    }
+  },
+  {
+    "_id": "cffe6e14-d63c-45c4-9bbb-249c0ac03a1c",
+    "name": "Marilith",
+    "ac": 189,
+    "hp": 18,
+    "attacks": [
+      {
+        "attackName": "Longsword",
+        "attackDamage": "9",
+        "attackToHit": "2d8+4"
+      },
+      {
+        "attackName": "Tail",
+        "attackDamage": "9",
+        "attackToHit": "2d10+4"
+      }
+    ],
+    "meta": {
+      "legacy": true
+    }
+  },
+  {
+    "_id": "a311565e-0365-4d6f-b0e9-85529476fabd",
+    "name": "Medusa",
+    "ac": 127,
+    "hp": 15,
+    "attacks": [
+      {
+        "attackName": "Snake Hair",
+        "attackDamage": "5",
+        "attackToHit": "1d4+2/4d6"
+      },
+      {
+        "attackName": "Shortsword",
+        "attackDamage": "5",
+        "attackToHit": "1d6+2"
+      },
+      {
+        "attackName": "Longbow",
+        "attackDamage": "5",
+        "attackToHit": "1d8+2/2d6"
+      }
+    ],
+    "meta": {
+      "legacy": true
+    }
+  },
+  {
+    "_id": "3f3cf384-67c9-466d-99bb-c467e9526178",
+    "name": "Merfolk",
+    "ac": 11,
+    "hp": 11,
+    "attacks": [
+      {
+        "attackName": "Spear(Ranged)",
+        "attackDamage": "2",
+        "attackToHit": "1d6"
+      },
+      {
+        "attackName": "Spear(Melee)",
+        "attackDamage": "2",
+        "attackToHit": "1d8"
+      }
+    ],
+    "meta": {
+      "legacy": true
+    }
+  },
+  {
+    "_id": "de9c31a0-4f33-4c9a-8200-3112c93e954b",
+    "name": "Merrow",
+    "ac": 45,
+    "hp": 13,
+    "attacks": [
+      {
+        "attackName": "Bite",
+        "attackDamage": "6",
+        "attackToHit": "1d8+4"
+      },
+      {
+        "attackName": "Claws",
+        "attackDamage": "6",
+        "attackToHit": "2d4+4"
+      },
+      {
+        "attackName": "Harpoon",
+        "attackDamage": "6",
+        "attackToHit": "2d6+4"
+      }
+    ],
+    "meta": {
+      "legacy": true
+    }
+  },
+  {
+    "_id": "c51da096-ccef-4442-90cd-f9a1314efa05",
+    "name": "Mezzoloth",
+    "ac": 75,
+    "hp": 18,
+    "attacks": [
+      {
+        "attackName": "Claws",
+        "attackDamage": "7",
+        "attackToHit": "2d4+4"
+      },
+      {
+        "attackName": "Trident(1H)",
+        "attackDamage": "7",
+        "attackToHit": "1d6+4"
+      },
+      {
+        "attackName": "Trident(2H)",
+        "attackDamage": "7",
+        "attackToHit": "1d8+4"
+      }
+    ],
+    "meta": {
+      "legacy": true
+    }
+  },
+  {
+    "_id": "f296058a-2f6d-4d6d-b5be-7af02310e713",
+    "name": "Mimic",
+    "ac": 58,
+    "hp": 12,
+    "attacks": [
+      {
+        "attackName": "Pseudopod",
+        "attackDamage": "5",
+        "attackToHit": "1d8+3"
+      },
+      {
+        "attackName": "Bite",
+        "attackDamage": "5",
+        "attackToHit": "1d8+3/1d8"
+      }
+    ],
+    "meta": {
+      "legacy": true
+    }
+  },
+  {
+    "_id": "b3e6d8b4-207f-41b5-aafa-1ee00f2bcc7b",
+    "name": "Mind Flayer",
+    "ac": 71,
+    "hp": 15,
+    "attacks": [
+      {
+        "attackName": "Tentacles",
+        "attackDamage": "7",
+        "attackToHit": "2d10+4"
+      },
+      {
+        "attackName": "Extract Brain",
+        "attackDamage": "7",
+        "attackToHit": "10d10"
+      }
+    ],
+    "meta": {
+      "legacy": true
+    }
+  },
+  {
+    "_id": "9b433fe8-6e82-4d19-a8be-3c621dee816b",
+    "name": "Minotaur",
+    "ac": 76,
+    "hp": 14,
+    "attacks": [
+      {
+        "attackName": "Greataxe",
+        "attackDamage": "6",
+        "attackToHit": "2d12+4"
+      },
+      {
+        "attackName": "Gore",
+        "attackDamage": "6",
+        "attackToHit": "2d8+4"
+      }
+    ],
+    "meta": {
+      "legacy": true
+    }
+  },
+  {
+    "_id": "1e2cfbd5-3e27-4e9e-bdd0-8d1ed77dd8a2",
+    "name": "Minotaur Skeleton",
+    "ac": 67,
+    "hp": 12,
+    "attacks": [
+      {
+        "attackName": "Greataxe",
+        "attackDamage": "6",
+        "attackToHit": "2d12+4"
+      },
+      {
+        "attackName": "Gore",
+        "attackDamage": "6",
+        "attackToHit": "2d8+4"
+      }
+    ],
+    "meta": {
+      "legacy": true
+    }
+  },
+  {
+    "_id": "87dab922-4f76-49fa-9022-3df6fe9fc0c5",
+    "name": "Mondrone",
+    "ac": 5,
+    "hp": 15,
+    "attacks": [
+      {
+        "attackName": "Dagger",
+        "attackDamage": "3",
+        "attackToHit": "1d4+1"
+      },
+      {
+        "attackName": "Javelin",
+        "attackDamage": "2",
+        "attackToHit": "1d6"
+      }
+    ],
+    "meta": {
+      "legacy": true
+    }
+  },
+  {
+    "_id": "cd85ec04-9f78-4528-ba2b-d725e109f6f6",
+    "name": "Mud Mephit",
+    "ac": 27,
+    "hp": 11,
+    "attacks": [
+      {
+        "attackName": "Fists",
+        "attackDamage": "3",
+        "attackToHit": "1d6+1"
+      }
+    ],
+    "meta": {
+      "legacy": true
+    }
+  },
+  {
+    "_id": "abcc2374-95f6-4bfb-976d-8a06a0433f6a",
+    "name": "Mummy",
+    "ac": 58,
+    "hp": 11,
+    "attacks": [
+      {
+        "attackName": "Rotting Fist",
+        "attackDamage": "5",
+        "attackToHit": "2d6+3/3d6"
+      }
+    ],
+    "meta": {
+      "legacy": true
+    }
+  },
+  {
+    "_id": "2e3eded7-9e2c-4e34-9b1a-860fef3aa0f1",
+    "name": "Mummy Lord",
+    "ac": 97,
+    "hp": 17,
+    "attacks": [
+      {
+        "attackName": "Rotting Fist",
+        "attackDamage": "9",
+        "attackToHit": "3d6+4/6d6"
+      }
+    ],
+    "meta": {
+      "legacy": true
+    }
+  },
+  {
+    "_id": "b6b8f815-a4b7-499e-9393-fa919aefa5ff",
+    "name": "Myconid Sprout",
+    "ac": 7,
+    "hp": 10,
+    "attacks": [
+      {
+        "attackName": "Fist",
+        "attackDamage": "1",
+        "attackToHit": "1d4"
+      }
+    ],
+    "meta": {
+      "legacy": true
+    }
+  },
+  {
+    "_id": "a905c783-87a3-4a4b-8c02-c3e429d6b7b0",
+    "name": "Myconid Adult",
+    "ac": 22,
+    "hp": 12,
+    "attacks": [
+      {
+        "attackName": "Fist",
+        "attackDamage": "2",
+        "attackToHit": "2d4/2d4"
+      }
+    ],
+    "meta": {
+      "legacy": true
+    }
+  },
+  {
+    "_id": "d76002d1-da11-499d-84b1-e953100748a6",
+    "name": "Myconid Sovereign",
+    "ac": 60,
+    "hp": 13,
+    "attacks": [
+      {
+        "attackName": "Fist",
+        "attackDamage": "3",
+        "attackToHit": "3d4+1/3d4"
+      }
+    ],
+    "meta": {
+      "legacy": true
+    }
+  },
+  {
+    "_id": "11b209cd-c4f7-4117-825f-7eef01462381",
+    "name": "Nalfeshnee",
+    "ac": 184,
+    "hp": 18,
+    "attacks": [
+      {
+        "attackName": "Bite",
+        "attackDamage": "10",
+        "attackToHit": "5d10+5"
+      },
+      {
+        "attackName": "Claw",
+        "attackDamage": "10",
+        "attackToHit": "3d6+5"
+      }
+    ],
+    "meta": {
+      "legacy": true
+    }
+  },
+  {
+    "_id": "5a2e074a-ffb3-43e2-8271-826796c7065c",
+    "name": "Needle Blight",
+    "ac": 11,
+    "hp": 12,
+    "attacks": [
+      {
+        "attackName": "Claws",
+        "attackDamage": "3",
+        "attackToHit": "2d4+1"
+      },
+      {
+        "attackName": "Needles",
+        "attackDamage": "3",
+        "attackToHit": "2d6+1"
+      }
+    ],
+    "meta": {
+      "legacy": true
+    }
+  },
+  {
+    "_id": "86acb9fb-d458-47fe-a8b8-2a38a84b4880",
+    "name": "Night Hag",
+    "ac": 112,
+    "hp": 17,
+    "attacks": [
+      {
+        "attackName": "Claws",
+        "attackDamage": "7",
+        "attackToHit": "2d8+4"
+      }
+    ],
+    "meta": {
+      "legacy": true
+    }
+  },
+  {
+    "_id": "cf57494f-847d-4ea4-88d8-262fee7b36a4",
+    "name": "Nightmare",
+    "ac": 68,
+    "hp": 13,
+    "attacks": [
+      {
+        "attackName": "Hooves",
+        "attackDamage": "6",
+        "attackToHit": "2d8+4"
+      }
+    ],
+    "meta": {
+      "legacy": true
+    }
+  },
+  {
+    "_id": "c6491e94-afa8-4442-b878-6bc702552a9f",
+    "name": "Nothic",
+    "ac": 45,
+    "hp": 15,
+    "attacks": [
+      {
+        "attackName": "Claw",
+        "attackDamage": "4",
+        "attackToHit": "1d6+3"
+      }
+    ],
+    "meta": {
+      "legacy": true
+    }
+  },
+  {
+    "_id": "4052aeaa-0af2-407a-a811-0982f4cb4990",
+    "name": "Nycaloth",
+    "ac": 123,
+    "hp": 18,
+    "attacks": [
+      {
+        "attackName": "Claw",
+        "attackDamage": "9",
+        "attackToHit": "2d6+5"
+      },
+      {
+        "attackName": "Greataxe",
+        "attackDamage": "9",
+        "attackToHit": "2d12+5"
+      }
+    ],
+    "meta": {
+      "legacy": true
+    }
+  },
+  {
+    "_id": "8879ce0e-d411-45ab-a528-6559fff58041",
+    "name": "Ochre Jelly",
+    "ac": 45,
+    "hp": 8,
+    "attacks": [
+      {
+        "attackName": "Pseudopod",
+        "attackDamage": "4",
+        "attackToHit": "2d6+2/1d6"
+      }
+    ],
+    "meta": {
+      "legacy": true
+    }
+  },
+  {
+    "_id": "4958a800-2151-48a9-84c0-325afc3c8fe1",
+    "name": "Ogre",
+    "ac": 59,
+    "hp": 11,
+    "attacks": [
+      {
+        "attackName": "Greatclub",
+        "attackDamage": "6",
+        "attackToHit": "2d8+4"
+      },
+      {
+        "attackName": "Javelin",
+        "attackDamage": "6",
+        "attackToHit": "2d6+4"
+      }
+    ],
+    "meta": {
+      "legacy": true
+    }
+  },
+  {
+    "_id": "a82f9f17-a5e1-455f-98ee-25646a4a4abb",
+    "name": "Ogre Zombie",
+    "ac": 85,
+    "hp": 8,
+    "attacks": [
+      {
+        "attackName": "Morningstar",
+        "attackDamage": "6",
+        "attackToHit": "2d8+4"
+      }
+    ],
+    "meta": {
+      "legacy": true
+    }
+  },
+  {
+    "_id": "cf428dbf-68d6-4b41-a762-4ace7b33c1f1",
+    "name": "Oni",
+    "ac": 110,
+    "hp": 16,
+    "attacks": [
+      {
+        "attackName": "Claw",
+        "attackDamage": "7",
+        "attackToHit": "1d8+4"
+      },
+      {
+        "attackName": "Glaive(Large)",
+        "attackDamage": "7",
+        "attackToHit": "2d10+4"
+      },
+      {
+        "attackName": "Glaive(Small/Medium)",
+        "attackDamage": "7",
+        "attackToHit": "1d10+4"
+      }
+    ],
+    "meta": {
+      "legacy": true
+    }
+  },
+  {
+    "_id": "eaaff4fd-6547-4c7c-b5d9-070bf22c6dfe",
+    "name": "Orc",
+    "ac": 15,
+    "hp": 13,
+    "attacks": [
+      {
+        "attackName": "Greataxe",
+        "attackDamage": "5",
+        "attackToHit": "1d12+3"
+      },
+      {
+        "attackName": "Javelin",
+        "attackDamage": "5",
+        "attackToHit": "1d6+3"
+      }
+    ],
+    "meta": {
+      "legacy": true
+    }
+  },
+  {
+    "_id": "67c70b10-6681-4692-a8d5-2cd26e112b78",
+    "name": "Orc Eye of Gruumsh",
+    "ac": 45,
+    "hp": 16,
+    "attacks": [
+      {
+        "attackName": "Spear(Ranged)",
+        "attackDamage": "5",
+        "attackToHit": "1d6+3/1d8"
+      },
+      {
+        "attackName": "Spear(Melee)",
+        "attackDamage": "5",
+        "attackToHit": "2d8+3"
+      }
+    ],
+    "meta": {
+      "legacy": true
+    }
+  },
+  {
+    "_id": "87f594eb-7465-4da2-a7a1-591483d611ac",
+    "name": "Orc War Chief",
+    "ac": 93,
+    "hp": 16,
+    "attacks": [
+      {
+        "attackName": "Greataxe",
+        "attackDamage": "6",
+        "attackToHit": "1d12+4/1d8"
+      },
+      {
+        "attackName": "Spear(Ranged)",
+        "attackDamage": "6",
+        "attackToHit": "1d6+4/1d8"
+      },
+      {
+        "attackName": "Spear(Melee)",
+        "attackDamage": "6",
+        "attackToHit": "2d8+4"
+      }
+    ],
+    "meta": {
+      "legacy": true
+    }
+  },
+  {
+    "_id": "e3d43bab-97f7-43dc-b0ce-7cc66cc26804",
+    "name": "Orog",
+    "ac": 42,
+    "hp": 18,
+    "attacks": [
+      {
+        "attackName": "Greataxe",
+        "attackDamage": "6",
+        "attackToHit": "1d12+4"
+      },
+      {
+        "attackName": "Javelin",
+        "attackDamage": "6",
+        "attackToHit": "1d6+4"
+      }
+    ],
+    "meta": {
+      "legacy": true
+    }
+  },
+  {
+    "_id": "ee2151e0-f823-4ff1-9cca-734ba31198f4",
+    "name": "Otyugh",
+    "ac": 114,
+    "hp": 14,
+    "attacks": [
+      {
+        "attackName": "Bite",
+        "attackDamage": "6",
+        "attackToHit": "2d8+3"
+      },
+      {
+        "attackName": "Tentaclt",
+        "attackDamage": "6",
+        "attackToHit": "1d8+3/1d8"
+      }
+    ],
+    "meta": {
+      "legacy": true
+    }
+  },
+  {
+    "_id": "ba6ed196-c79b-40c7-8de0-9365ed334fdc",
+    "name": "Owlbear",
+    "ac": 52,
+    "hp": 13,
+    "attacks": [
+      {
+        "attackName": "Beak",
+        "attackDamage": "7",
+        "attackToHit": "1d10+5"
+      },
+      {
+        "attackName": "Claws",
+        "attackDamage": "7",
+        "attackToHit": "2d8+5"
+      }
+    ],
+    "meta": {
+      "legacy": true
+    }
+  },
+  {
+    "_id": "f451c466-6fea-47a0-b685-4c511424dcde",
+    "name": "Pegasus",
+    "ac": 59,
+    "hp": 12,
+    "attacks": [
+      {
+        "attackName": "Hooves",
+        "attackDamage": "6",
+        "attackToHit": "2d6+4"
+      }
+    ],
+    "meta": {
+      "legacy": true
+    }
+  },
+  {
+    "_id": "71f84246-1dba-4bf1-bcca-8e0f7a3fd217",
+    "name": "Pentadrone",
+    "ac": 32,
+    "hp": 16,
+    "attacks": [
+      {
+        "attackName": "Arm",
+        "attackDamage": "4",
+        "attackToHit": "1d6+2"
+      }
+    ],
+    "meta": {
+      "legacy": true
+    }
+  },
+  {
+    "_id": "3ebbaf26-5514-4ee8-a253-3af0990df31f",
+    "name": "Pit Fiend",
+    "ac": 300,
+    "hp": 19,
+    "attacks": [
+      {
+        "attackName": "Bite",
+        "attackDamage": "14",
+        "attackToHit": "+4d6+8"
+      },
+      {
+        "attackName": "Claw",
+        "attackDamage": "14",
+        "attackToHit": "2d8+8"
+      },
+      {
+        "attackName": "Mace",
+        "attackDamage": "14",
+        "attackToHit": "2d6+8/6d6"
+      },
+      {
+        "attackName": "Tail",
+        "attackDamage": "14",
+        "attackToHit": "3d10+8"
+      }
+    ],
+    "meta": {
+      "legacy": true
+    }
+  },
+  {
+    "_id": "433df42e-abf1-4144-94d5-cb875660b962",
+    "name": "Planetar",
+    "ac": 200,
+    "hp": 19,
+    "attacks": [
+      {
+        "attackName": "Greatsword",
+        "attackDamage": "12",
+        "attackToHit": "4d6+7/5d8"
+      }
+    ],
+    "meta": {
+      "legacy": true
+    }
+  },
+  {
+    "_id": "f21d640e-d389-4bbd-bf57-5f6fd5415481",
+    "name": "Plesiosaurus",
+    "ac": 68,
+    "hp": 13,
+    "attacks": [
+      {
+        "attackName": "Bite",
+        "attackDamage": "6",
+        "attackToHit": "3d6+4"
+      }
+    ],
+    "meta": {
+      "legacy": true
+    }
+  },
+  {
+    "_id": "b7319742-2b3c-46cd-9c63-a834a48a22d8",
+    "name": "Pteranodon",
+    "ac": 13,
+    "hp": 13,
+    "attacks": [
+      {
+        "attackName": "Bite",
+        "attackDamage": "3",
+        "attackToHit": "2d4+1"
+      }
+    ],
+    "meta": {
+      "legacy": true
+    }
+  },
+  {
+    "_id": "0c851fe3-dbc5-40e8-bea0-2ce5db319956",
+    "name": "Peryton",
+    "ac": 33,
+    "hp": 13,
+    "attacks": [
+      {
+        "attackName": "Gore",
+        "attackDamage": "5",
+        "attackToHit": "1d8+3"
+      },
+      {
+        "attackName": "Talons",
+        "attackDamage": "5",
+        "attackToHit": "2d4+3"
+      }
+    ],
+    "meta": {
+      "legacy": true
+    }
+  },
+  {
+    "_id": "82888f9c-c9f3-4dc9-b9d7-8d6032c14030",
+    "name": "Piercer",
+    "ac": 22,
+    "hp": 15,
+    "attacks": [
+      {
+        "attackName": "Drop",
+        "attackDamage": "3",
+        "attackToHit": "1d6"
+      }
+    ],
+    "meta": {
+      "legacy": true
+    }
+  },
+  {
+    "_id": "6412fe79-d03a-4041-9028-0314bd01c1f9",
+    "name": "Pixie",
+    "ac": 1,
+    "hp": 15,
+    "attacks": [],
+    "meta": {
+      "legacy": true
+    }
+  },
+  {
+    "_id": "653e5e47-dc04-4a0d-a580-eec677a49377",
+    "name": "Pseudodragon",
+    "ac": 7,
+    "hp": 13,
+    "attacks": [
+      {
+        "attackName": "Bite",
+        "attackDamage": "4",
+        "attackToHit": "1d4+2"
+      },
+      {
+        "attackName": "Sting",
+        "attackDamage": "4",
+        "attackToHit": "1d4+2"
+      }
+    ],
+    "meta": {
+      "legacy": true
+    }
+  },
+  {
+    "_id": "1b9a62df-b455-4eb1-bdaf-758e496a7fe8",
+    "name": "Purple Worm",
+    "ac": 247,
+    "hp": 18,
+    "attacks": [
+      {
+        "attackName": "Bite",
+        "attackDamage": "9",
+        "attackToHit": "3d8+9"
+      },
+      {
+        "attackName": "Tail Stinger",
+        "attackDamage": "9",
+        "attackToHit": "3d6+9"
+      }
+    ],
+    "meta": {
+      "legacy": true
+    }
+  },
+  {
+    "_id": "1e2df899-ae8d-47d4-bdcd-a481207fc6a2",
+    "name": "Quasit",
+    "ac": 7,
+    "hp": 13,
+    "attacks": [
+      {
+        "attackName": "Claws(Bite)",
+        "attackDamage": "4",
+        "attackToHit": "1d4+3"
+      }
+    ],
+    "meta": {
+      "legacy": true
+    }
+  },
+  {
+    "_id": "4455960f-dc8a-4547-9a0d-0c7bdfde42fb",
+    "name": "Quadrone",
+    "ac": 22,
+    "hp": 16,
+    "attacks": [
+      {
+        "attackName": "Fist",
+        "attackDamage": "3",
+        "attackToHit": "1d4+1"
+      },
+      {
+        "attackName": "Shortbow",
+        "attackDamage": "4",
+        "attackToHit": "1d6+2"
+      }
+    ],
+    "meta": {
+      "legacy": true
+    }
+  },
+  {
+    "_id": "398a9c7f-bbc9-4828-a77d-2cc607695b48",
+    "name": "Quaggoth",
+    "ac": 45,
+    "hp": 13,
+    "attacks": [
+      {
+        "attackName": "Claw",
+        "attackDamage": "5",
+        "attackToHit": "1d6+3"
+      }
+    ],
+    "meta": {
+      "legacy": true
+    }
+  },
+  {
+    "_id": "4d231d54-7c49-43ce-969a-aed4e72e419d",
+    "name": "Quaggoth Spore Servant",
+    "ac": 45,
+    "hp": 13,
+    "attacks": [
+      {
+        "attackName": "Claw",
+        "attackDamage": "5",
+        "attackToHit": "1d6+3"
+      }
+    ],
+    "meta": {
+      "legacy": true
+    }
+  },
+  {
+    "_id": "19895ecf-b145-4de0-a22b-5431aa26c0ea",
+    "name": "Rakshasa",
+    "ac": 110,
+    "hp": 16,
+    "attacks": [
+      {
+        "attackName": "Claw",
+        "attackDamage": "7",
+        "attackToHit": "2d6+2"
+      }
+    ],
+    "meta": {
+      "legacy": true
+    }
+  },
+  {
+    "_id": "3e058b78-d9c0-4635-9fcb-2fd912635be8",
+    "name": "Red Dragon Wyrmling",
+    "ac": 75,
+    "hp": 17,
+    "attacks": [
+      {
+        "attackName": "Bite",
+        "attackDamage": "6",
+        "attackToHit": "1d10/1d6"
+      }
+    ],
+    "meta": {
+      "legacy": true
+    }
+  },
+  {
+    "_id": "025b7501-4070-4e96-862c-f6513727d9e1",
+    "name": "Red Slaad",
+    "ac": 93,
+    "hp": 14,
+    "attacks": [
+      {
+        "attackName": "Bite",
+        "attackDamage": "6",
+        "attackToHit": "2d4+3"
+      },
+      {
+        "attackName": "Claw",
+        "attackDamage": "6",
+        "attackToHit": "1d8+3"
+      }
+    ],
+    "meta": {
+      "legacy": true
+    }
+  },
+  {
+    "_id": "1f17d256-1f81-4ee0-a7d9-abde97524654",
+    "name": "Remorhaz",
+    "ac": 195,
+    "hp": 17,
+    "attacks": [
+      {
+        "attackName": "Bite",
+        "attackDamage": "11",
+        "attackToHit": "6d10+7/3d6"
+      }
+    ],
+    "meta": {
+      "legacy": true
+    }
+  },
+  {
+    "_id": "a432dee4-ac07-4955-b492-7aff4e598d13",
+    "name": "Revenant",
+    "ac": 136,
+    "hp": 13,
+    "attacks": [
+      {
+        "attackName": "Fist",
+        "attackDamage": "7",
+        "attackToHit": "2d6+4"
+      }
+    ],
+    "meta": {
+      "legacy": true
+    }
+  },
+  {
+    "_id": "afa515f6-d890-42e9-84f2-c9b0a4cf9e10",
+    "name": "Roc",
+    "ac": 248,
+    "hp": 15,
+    "attacks": [
+      {
+        "attackName": "Beak",
+        "attackDamage": "13",
+        "attackToHit": "4d8+9"
+      },
+      {
+        "attackName": "Talons",
+        "attackDamage": "13",
+        "attackToHit": "4d6+9"
+      }
+    ],
+    "meta": {
+      "legacy": true
+    }
+  },
+  {
+    "_id": "9fd227ca-ba2f-458e-a543-f1edcaa15c52",
+    "name": "Roper",
+    "ac": 93,
+    "hp": 20,
+    "attacks": [
+      {
+        "attackName": "Bite",
+        "attackDamage": "7",
+        "attackToHit": "4d8+4"
+      },
+      {
+        "attackName": "Tendril",
+        "attackDamage": "7",
+        "attackToHit": "0d0"
+      }
+    ],
+    "meta": {
+      "legacy": true
+    }
+  },
+  {
+    "_id": "26be60cc-fc7b-420a-a6b6-efcbbcba2823",
+    "name": "Rug of Smothering",
+    "ac": 33,
+    "hp": 12,
+    "attacks": [
+      {
+        "attackName": "Smother",
+        "attackDamage": "5",
+        "attackToHit": "0"
+      }
+    ],
+    "meta": {
+      "legacy": true
+    }
+  },
+  {
+    "_id": "da715acb-fcae-45cf-97fb-41d94dc44b35",
+    "name": "Rust Monster",
+    "ac": 27,
+    "hp": 14,
+    "attacks": [
+      {
+        "attackName": "Bite",
+        "attackDamage": "3",
+        "attackToHit": "1d8+1"
+      }
+    ],
+    "meta": {
+      "legacy": true
+    }
+  },
+  {
+    "_id": "b74cf5fd-0ae3-4d01-aac1-8ba2b5770fb4",
+    "name": "Sahuagin",
+    "ac": 22,
+    "hp": 12,
+    "attacks": [
+      {
+        "attackName": "Bite",
+        "attackDamage": "3",
+        "attackToHit": "1d4+1"
+      },
+      {
+        "attackName": "Claws",
+        "attackDamage": "3",
+        "attackToHit": "1d4+1"
+      },
+      {
+        "attackName": "Spear(Ranged)",
+        "attackDamage": "3",
+        "attackToHit": "1d6+1"
+      },
+      {
+        "attackName": "Spear(Melee)",
+        "attackDamage": "3",
+        "attackToHit": "1d8+1"
+      }
+    ],
+    "meta": {
+      "legacy": true
+    }
+  },
+  {
+    "_id": "5acf2c27-e5b7-4594-ac85-f6f5a921643e",
+    "name": "Sahuagin Priestess",
+    "ac": 33,
+    "hp": 12,
+    "attacks": [
+      {
+        "attackName": "Bite",
+        "attackDamage": "3",
+        "attackToHit": "1d4+1"
+      },
+      {
+        "attackName": "Claws",
+        "attackDamage": "3",
+        "attackToHit": "1d4+1"
+      }
+    ],
+    "meta": {
+      "legacy": true
+    }
+  },
+  {
+    "_id": "41f1cdf7-b39a-4276-a776-bf570d515706",
+    "name": "Sahuagin Baron",
+    "ac": 76,
+    "hp": 16,
+    "attacks": [
+      {
+        "attackName": "Bite",
+        "attackDamage": "7",
+        "attackToHit": "2d4+4"
+      },
+      {
+        "attackName": "Claws",
+        "attackDamage": "7",
+        "attackToHit": "2d6+4"
+      },
+      {
+        "attackName": "Trident(Ranged)",
+        "attackDamage": "7",
+        "attackToHit": "2d6+4"
+      },
+      {
+        "attackName": "Trident(Melee)",
+        "attackDamage": "7",
+        "attackToHit": "2d8+4"
+      }
+    ],
+    "meta": {
+      "legacy": true
+    }
+  },
+  {
+    "_id": "8fc3dc57-c738-4c26-ab51-8d09d8ec3259",
+    "name": "Salamander",
+    "ac": 90,
+    "hp": 15,
+    "attacks": [
+      {
+        "attackName": "Spear(Ranged)",
+        "attackDamage": "7",
+        "attackToHit": "2d6+4"
+      },
+      {
+        "attackName": "Spear(Melee)",
+        "attackDamage": "7",
+        "attackToHit": "2d8+4"
+      },
+      {
+        "attackName": "Tail",
+        "attackDamage": "7",
+        "attackToHit": "2d6+4"
+      }
+    ],
+    "meta": {
+      "legacy": true
+    }
+  },
+  {
+    "_id": "93053cbd-ec46-44a2-b822-3b5cefbd11b8",
+    "name": "Satyr",
+    "ac": 31,
+    "hp": 14,
+    "attacks": [
+      {
+        "attackName": "Ram",
+        "attackDamage": "3",
+        "attackToHit": "2d4+1"
+      },
+      {
+        "attackName": "Shortsword",
+        "attackDamage": "5",
+        "attackToHit": "1d6+3"
+      },
+      {
+        "attackName": "Shortbow",
+        "attackDamage": "5",
+        "attackToHit": "1d6+3"
+      }
+    ],
+    "meta": {
+      "legacy": true
+    }
+  },
+  {
+    "_id": "16995792-81ce-4dea-a397-6858252ab83e",
+    "name": "Scarecrow",
+    "ac": 36,
+    "hp": 11,
+    "attacks": [
+      {
+        "attackName": "Claw",
+        "attackDamage": "3",
+        "attackToHit": "2d4+1"
+      }
+    ],
+    "meta": {
+      "legacy": true
+    }
+  },
+  {
+    "_id": "a16dad3b-b3ed-4d08-8f07-f0b0149920d0",
+    "name": "Sea Hag",
+    "ac": 52,
+    "hp": 14,
+    "attacks": [
+      {
+        "attackName": "Claws",
+        "attackDamage": "5",
+        "attackToHit": "2d6+3"
+      }
+    ],
+    "meta": {
+      "legacy": true
+    }
+  },
+  {
+    "_id": "7a3e7832-7ca0-4919-8832-cd40b05872bc",
+    "name": "Shadow",
+    "ac": 16,
+    "hp": 12,
+    "attacks": [
+      {
+        "attackName": "Strength Drain",
+        "attackDamage": "4",
+        "attackToHit": "2d6+2"
+      }
+    ],
+    "meta": {
+      "legacy": true
+    }
+  },
+  {
+    "_id": "4139eb8c-bb60-4b4d-a3eb-9a8dfbcca037",
+    "name": "Shadow Demon",
+    "ac": 66,
+    "hp": 13,
+    "attacks": [
+      {
+        "attackName": "Claws",
+        "attackDamage": "5",
+        "attackToHit": "2d6+3"
+      }
+    ],
+    "meta": {
+      "legacy": true
+    }
+  },
+  {
+    "_id": "e78c98e4-ad23-45fc-ab10-9253b2193e08",
+    "name": "Shambling Mound",
+    "ac": 136,
+    "hp": 15,
+    "attacks": [
+      {
+        "attackName": "Slam",
+        "attackDamage": "7",
+        "attackToHit": "2d8+4"
+      }
+    ],
+    "meta": {
+      "legacy": true
+    }
+  },
+  {
+    "_id": "0fb0f603-feae-438d-8a33-b4993685bf14",
+    "name": "Shield Guardian",
+    "ac": 142,
+    "hp": 17,
+    "attacks": [
+      {
+        "attackName": "Fist",
+        "attackDamage": "7",
+        "attackToHit": "2d6+4"
+      }
+    ],
+    "meta": {
+      "legacy": true
+    }
+  },
+  {
+    "_id": "f5d2218d-0d31-4478-9c36-60ab73ce33e9",
+    "name": "Shrieker",
+    "ac": 13,
+    "hp": 5,
+    "attacks": [],
+    "meta": {
+      "legacy": true
+    }
+  },
+  {
+    "_id": "854f5b12-bf61-48bf-9c2f-379463f3aadd",
+    "name": "Silver Dragon Wyrmling",
+    "ac": 45,
+    "hp": 17,
+    "attacks": [
+      {
+        "attackName": "Bite",
+        "attackDamage": "6",
+        "attackToHit": "1d10"
+      }
+    ],
+    "meta": {
+      "legacy": true
+    }
+  },
+  {
+    "_id": "2bd3df3a-eb68-48ff-8710-94602b012368",
+    "name": "Skeleton",
+    "ac": 13,
+    "hp": 13,
+    "attacks": [
+      {
+        "attackName": "Shortsword",
+        "attackDamage": "4",
+        "attackToHit": "1d6+2"
+      },
+      {
+        "attackName": "Shortbow",
+        "attackDamage": "4",
+        "attackToHit": "1d6+2"
+      }
+    ],
+    "meta": {
+      "legacy": true
+    }
+  },
+  {
+    "_id": "2ea5b903-8b1c-4565-9be1-0adf8c15c797",
+    "name": "Slaad Tadpole",
+    "ac": 10,
+    "hp": 12,
+    "attacks": [
+      {
+        "attackName": "Bite",
+        "attackDamage": "4",
+        "attackToHit": "1d4+2"
+      }
+    ],
+    "meta": {
+      "legacy": true
+    }
+  },
+  {
+    "_id": "f543c127-92f9-4f85-b336-cf6f33b8a09a",
+    "name": "Smoke Mephit",
+    "ac": 22,
+    "hp": 12,
+    "attacks": [
+      {
+        "attackName": "Claws",
+        "attackDamage": "4",
+        "attackToHit": "1d4+2"
+      }
+    ],
+    "meta": {
+      "legacy": true
+    }
+  },
+  {
+    "_id": "4e37f5f7-8424-42d9-a9d0-53f0f63119f0",
+    "name": "Spectator",
+    "ac": 39,
+    "hp": 14,
+    "attacks": [
+      {
+        "attackName": "Bite",
+        "attackDamage": "1",
+        "attackToHit": "1d6–1"
+      }
+    ],
+    "meta": {
+      "legacy": true
+    }
+  },
+  {
+    "_id": "146b8999-9362-4234-9648-cc548898a5cf",
+    "name": "Specter",
+    "ac": 22,
+    "hp": 12,
+    "attacks": [
+      {
+        "attackName": "Life Drain",
+        "attackDamage": "4",
+        "attackToHit": "3d6"
+      }
+    ],
+    "meta": {
+      "legacy": true
+    }
+  },
+  {
+    "_id": "f2ac7337-a7a3-4af9-8f9d-10c888f5e57d",
+    "name": "Spined Devil",
+    "ac": 22,
+    "hp": 13,
+    "attacks": [
+      {
+        "attackName": "Bite",
+        "attackDamage": "2",
+        "attackToHit": "2d4"
+      },
+      {
+        "attackName": "Fork",
+        "attackDamage": "2",
+        "attackToHit": "1d6"
+      },
+      {
+        "attackName": "Tail Spine",
+        "attackDamage": "4",
+        "attackToHit": "1d4/1d6"
+      }
+    ],
+    "meta": {
+      "legacy": true
+    }
+  },
+  {
+    "_id": "ae76088d-d806-4a00-b1a6-21ad2c0b722b",
+    "name": "Spirit Naga",
+    "ac": 75,
+    "hp": 15,
+    "attacks": [
+      {
+        "attackName": "Bite",
+        "attackDamage": "7",
+        "attackToHit": "1d6+4"
+      }
+    ],
+    "meta": {
+      "legacy": true
+    }
+  },
+  {
+    "_id": "993f78d3-ab45-4c78-9141-59271dc181e3",
+    "name": "Sprite",
+    "ac": 2,
+    "hp": 15,
+    "attacks": [
+      {
+        "attackName": "Longsword",
+        "attackDamage": "2",
+        "attackToHit": "0d0+1"
+      },
+      {
+        "attackName": "Shortbow",
+        "attackDamage": "6",
+        "attackToHit": "0d0+1"
+      }
+    ],
+    "meta": {
+      "legacy": true
+    }
+  },
+  {
+    "_id": "00d26035-dfec-413f-b2e9-c2a8135b6c7a",
+    "name": "Solar",
+    "ac": 243,
+    "hp": 21,
+    "attacks": [
+      {
+        "attackName": "Greatsword",
+        "attackDamage": "15",
+        "attackToHit": "4d6+8/6d8"
+      },
+      {
+        "attackName": "Slaying Longbow",
+        "attackDamage": "13",
+        "attackToHit": "2d8+6/6d8"
+      }
+    ],
+    "meta": {
+      "legacy": true
+    }
+  },
+  {
+    "_id": "80f41909-ad6b-49ba-ae0c-a7b1a4909af4",
+    "name": "Steam Mephit",
+    "ac": 21,
+    "hp": 10,
+    "attacks": [
+      {
+        "attackName": "Claws",
+        "attackDamage": "2",
+        "attackToHit": "1d4+2/1d4"
+      }
+    ],
+    "meta": {
+      "legacy": true
+    }
+  },
+  {
+    "_id": "030ca6d2-aea2-4422-8696-ef52de38f1ee",
+    "name": "Stirge",
+    "ac": 2,
+    "hp": 14,
+    "attacks": [
+      {
+        "attackName": "Blood Drain",
+        "attackDamage": "5",
+        "attackToHit": "1d4+3"
+      }
+    ],
+    "meta": {
+      "legacy": true
+    }
+  },
+  {
+    "_id": "4072abe7-7ba7-4dc6-b6e4-007cff5c1876",
+    "name": "Stone Giant",
+    "ac": 126,
+    "hp": 17,
+    "attacks": [
+      {
+        "attackName": "Greatclub",
+        "attackDamage": "9",
+        "attackToHit": "3d8+6"
+      },
+      {
+        "attackName": "Rock",
+        "attackDamage": "9",
+        "attackToHit": "4d10+6"
+      }
+    ],
+    "meta": {
+      "legacy": true
+    }
+  },
+  {
+    "_id": "80d08a14-7172-4a35-a2f7-0516db59cd90",
+    "name": "Stone Golem",
+    "ac": 178,
+    "hp": 17,
+    "attacks": [
+      {
+        "attackName": "Slam",
+        "attackDamage": "10",
+        "attackToHit": "3d8+6"
+      }
+    ],
+    "meta": {
+      "legacy": true
+    }
+  },
+  {
+    "_id": "e10dfb9f-cf89-4dba-8bf2-2bce69299bcf",
+    "name": "Storm Giant",
+    "ac": 230,
+    "hp": 16,
+    "attacks": [
+      {
+        "attackName": "Greatsword",
+        "attackDamage": "14",
+        "attackToHit": "6d6+9"
+      },
+      {
+        "attackName": "Rock",
+        "attackDamage": "9",
+        "attackToHit": "4d12+9"
+      }
+    ],
+    "meta": {
+      "legacy": true
+    }
+  },
+  {
+    "_id": "863614ea-459c-4f41-a2e2-d291f7a6f5c3",
+    "name": "Succubus",
+    "ac": 66,
+    "hp": 15,
+    "attacks": [
+      {
+        "attackName": "Claw",
+        "attackDamage": "5",
+        "attackToHit": "1d6+3"
+      }
+    ],
+    "meta": {
+      "legacy": true
+    }
+  },
+  {
+    "_id": "60b9f2c2-9c0a-44f5-a61f-6eb12a4d4e95",
+    "name": "Tarrasque",
+    "ac": 676,
+    "hp": 25,
+    "attacks": [
+      {
+        "attackName": "Bite",
+        "attackDamage": "19",
+        "attackToHit": "4d12+10"
+      },
+      {
+        "attackName": "Claw",
+        "attackDamage": "19",
+        "attackToHit": "4d8+10"
+      },
+      {
+        "attackName": "Horns",
+        "attackDamage": "19",
+        "attackToHit": "4d10+10"
+      },
+      {
+        "attackName": "Tail",
+        "attackDamage": "19",
+        "attackToHit": "4d6+10"
+      }
+    ],
+    "meta": {
+      "legacy": true
+    }
+  },
+  {
+    "_id": "4745fb3c-107a-4864-bcec-61007fe17992",
+    "name": "Thri-Kreen",
+    "ac": 33,
+    "hp": 15,
+    "attacks": [
+      {
+        "attackName": "Bite",
+        "attackDamage": "3",
+        "attackToHit": "1d6+1"
+      },
+      {
+        "attackName": "Claws",
+        "attackDamage": "3",
+        "attackToHit": "2d4+1"
+      }
+    ],
+    "meta": {
+      "legacy": true
+    }
+  },
+  {
+    "_id": "61ba54fb-1553-421d-93ce-56d955f1c6f6",
+    "name": "Treant",
+    "ac": 138,
+    "hp": 16,
+    "attacks": [
+      {
+        "attackName": "Slam",
+        "attackDamage": "10",
+        "attackToHit": "3d6+6"
+      },
+      {
+        "attackName": "Rock",
+        "attackDamage": "10",
+        "attackToHit": "4d10+6"
+      }
+    ],
+    "meta": {
+      "legacy": true
+    }
+  },
+  {
+    "_id": "1100bc4d-2393-4336-bd6b-aca6ef01017e",
+    "name": "Triceratops",
+    "ac": 95,
+    "hp": 13,
+    "attacks": [
+      {
+        "attackName": "Gore",
+        "attackDamage": "9",
+        "attackToHit": "4d8+6"
+      },
+      {
+        "attackName": "Stomp",
+        "attackDamage": "9",
+        "attackToHit": "3d10+6"
+      }
+    ],
+    "meta": {
+      "legacy": true
+    }
+  },
+  {
+    "_id": "e44864ad-ebf8-45f5-9e1f-c40367b3b2fe",
+    "name": "Tridrone",
+    "ac": 16,
+    "hp": 15,
+    "attacks": [
+      {
+        "attackName": "Fist",
+        "attackDamage": "3",
+        "attackToHit": "1d4+1"
+      },
+      {
+        "attackName": "Javelin",
+        "attackDamage": "3",
+        "attackToHit": "1d6+1"
+      }
+    ],
+    "meta": {
+      "legacy": true
+    }
+  },
+  {
+    "_id": "3b351bc4-b450-407d-821f-849104d4e190",
+    "name": "Troglodyte",
+    "ac": 13,
+    "hp": 11,
+    "attacks": [
+      {
+        "attackName": "Bite",
+        "attackDamage": "4",
+        "attackToHit": "1d4+2"
+      },
+      {
+        "attackName": "Claw",
+        "attackDamage": "4",
+        "attackToHit": "1d4+2"
+      }
+    ],
+    "meta": {
+      "legacy": true
+    }
+  },
+  {
+    "_id": "292af813-53f7-474a-9ecb-001438d3f510",
+    "name": "Troll",
+    "ac": 84,
+    "hp": 15,
+    "attacks": [
+      {
+        "attackName": "Bite",
+        "attackDamage": "7",
+        "attackToHit": "1d6+4"
+      },
+      {
+        "attackName": "Claw",
+        "attackDamage": "7",
+        "attackToHit": "2d6+4"
+      }
+    ],
+    "meta": {
+      "legacy": true
+    }
+  },
+  {
+    "_id": "d505e742-c746-4577-8ef1-1ccbd648d651",
+    "name": "Tyrannosaurus Rex",
+    "ac": 136,
+    "hp": 13,
+    "attacks": [
+      {
+        "attackName": "Bite",
+        "attackDamage": "10",
+        "attackToHit": "3d12+7"
+      },
+      {
+        "attackName": "Tail",
+        "attackDamage": "10",
+        "attackToHit": "3d8+7"
+      }
+    ],
+    "meta": {
+      "legacy": true
+    }
+  },
+  {
+    "_id": "a0a78536-8329-4038-9cdb-381626b26764",
+    "name": "Twig Blight",
+    "ac": 4,
+    "hp": 13,
+    "attacks": [
+      {
+        "attackName": "Claws",
+        "attackDamage": "3",
+        "attackToHit": "1d4+1"
+      }
+    ],
+    "meta": {
+      "legacy": true
+    }
+  },
+  {
+    "_id": "ef71d82b-989f-4de6-bfe0-b33deb0c8b60",
+    "name": "Ultroloth",
+    "ac": 153,
+    "hp": 19,
+    "attacks": [
+      {
+        "attackName": "Longsword(1H)",
+        "attackDamage": "8",
+        "attackToHit": "1d8+3"
+      },
+      {
+        "attackName": "Longsword(2H)",
+        "attackDamage": "8",
+        "attackToHit": "1d10+3"
+      }
+    ],
+    "meta": {
+      "legacy": true
+    }
+  },
+  {
+    "_id": "ab324e4a-2eec-49c1-84c5-28ac2d9e78b4",
+    "name": "Umber Hulk",
+    "ac": 93,
+    "hp": 18,
+    "attacks": [
+      {
+        "attackName": "Claw",
+        "attackDamage": "8",
+        "attackToHit": "1d8+5"
+      },
+      {
+        "attackName": "Mandibles",
+        "attackDamage": "8",
+        "attackToHit": "2d8+5"
+      }
+    ],
+    "meta": {
+      "legacy": true
+    }
+  },
+  {
+    "_id": "6b5a7185-0ef2-47c0-8a4f-d1797b05352d",
+    "name": "Unicorn",
+    "ac": 67,
+    "hp": 12,
+    "attacks": [
+      {
+        "attackName": "Hooves",
+        "attackDamage": "7",
+        "attackToHit": "2d6+4"
+      },
+      {
+        "attackName": "Horn",
+        "attackDamage": "7",
+        "attackToHit": "1d8+4"
+      }
+    ],
+    "meta": {
+      "legacy": true
+    }
+  },
+  {
+    "_id": "932901a9-ed36-4b67-994e-9b56b5e36823",
+    "name": "Vampire",
+    "ac": 144,
+    "hp": 16,
+    "attacks": [
+      {
+        "attackName": "Unarmed Strike",
+        "attackDamage": "9",
+        "attackToHit": "1d8+4"
+      },
+      {
+        "attackName": "Bite",
+        "attackDamage": "9",
+        "attackToHit": "1d6+4/3d6"
+      }
+    ],
+    "meta": {
+      "legacy": true
+    }
+  },
+  {
+    "_id": "75e42169-be17-4044-ad8c-459c58fbcc94",
+    "name": "Vampire Spawn",
+    "ac": 82,
+    "hp": 15,
+    "attacks": [
+      {
+        "attackName": "Claws",
+        "attackDamage": "6",
+        "attackToHit": "2d4+3"
+      },
+      {
+        "attackName": "Bite",
+        "attackDamage": "6",
+        "attackToHit": "1d6+3/2d6"
+      }
+    ],
+    "meta": {
+      "legacy": true
+    }
+  },
+  {
+    "_id": "29037f24-c2cc-4799-af7e-f95fd4f8764c",
+    "name": "Vine Blight",
+    "ac": 26,
+    "hp": 12,
+    "attacks": [
+      {
+        "attackName": "Constrict",
+        "attackDamage": "4",
+        "attackToHit": "2d6+2"
+      }
+    ],
+    "meta": {
+      "legacy": true
+    }
+  },
+  {
+    "_id": "587378a1-1f11-4bcf-9b18-9fa07137718b",
+    "name": "Violet Fungus",
+    "ac": 18,
+    "hp": 5,
+    "attacks": [
+      {
+        "attackName": "Rotting Touch",
+        "attackDamage": "2",
+        "attackToHit": "1d8"
+      }
+    ],
+    "meta": {
+      "legacy": true
+    }
+  },
+  {
+    "_id": "77c9a4a7-71d8-47ec-86f9-2856b7939e57",
+    "name": "Vrock",
+    "ac": 104,
+    "hp": 15,
+    "attacks": [
+      {
+        "attackName": "Talons",
+        "attackDamage": "6",
+        "attackToHit": "2d6+3"
+      },
+      {
+        "attackName": "Talons",
+        "attackDamage": "6",
+        "attackToHit": "2d10+3"
+      }
+    ],
+    "meta": {
+      "legacy": true
+    }
+  },
+  {
+    "_id": "78c87634-70bd-46f0-94e2-e8fb9df4ceb4",
+    "name": "Water Elemental",
+    "ac": 114,
+    "hp": 14,
+    "attacks": [
+      {
+        "attackName": "Slam",
+        "attackDamage": "7",
+        "attackToHit": "2d8+4"
+      }
+    ],
+    "meta": {
+      "legacy": true
+    }
+  },
+  {
+    "_id": "0b97a78c-e47d-4651-a12b-db9a16cb62ea",
+    "name": "Water Weird",
+    "ac": 58,
+    "hp": 13,
+    "attacks": [
+      {
+        "attackName": "Constrict",
+        "attackDamage": "5",
+        "attackToHit": "3d6+3"
+      }
+    ],
+    "meta": {
+      "legacy": true
+    }
+  },
+  {
+    "_id": "97d02784-0004-47cd-9f7c-c29eb2afa46b",
+    "name": "Warhorse Skeleton",
+    "ac": 22,
+    "hp": 13,
+    "attacks": [
+      {
+        "attackName": "Hooves",
+        "attackDamage": "6",
+        "attackToHit": "2d6+4"
+      }
+    ],
+    "meta": {
+      "legacy": true
+    }
+  },
+  {
+    "_id": "16806955-09bd-4915-b43b-73646d610f23",
+    "name": "Werebear",
+    "ac": 135,
+    "hp": 11,
+    "attacks": [
+      {
+        "attackName": "Bite",
+        "attackDamage": "7",
+        "attackToHit": "2d10+4"
+      },
+      {
+        "attackName": "Claw",
+        "attackDamage": "7",
+        "attackToHit": "2d8+4"
+      },
+      {
+        "attackName": "Greataxe",
+        "attackDamage": "7",
+        "attackToHit": "1d12+4"
+      }
+    ],
+    "meta": {
+      "legacy": true
+    }
+  },
+  {
+    "_id": "69c3ede5-fcd9-4543-9858-ec6d817e64b3",
+    "name": "Wereboar",
+    "ac": 78,
+    "hp": 11,
+    "attacks": [
+      {
+        "attackName": "Maul",
+        "attackDamage": "5",
+        "attackToHit": "2d6+3"
+      },
+      {
+        "attackName": "Tusks",
+        "attackDamage": "5",
+        "attackToHit": "2d6+3"
+      }
+    ],
+    "meta": {
+      "legacy": true
+    }
+  },
+  {
+    "_id": "d5aec81e-3120-4d5a-a207-5b881283aa91",
+    "name": "Wererat",
+    "ac": 33,
+    "hp": 12,
+    "attacks": [
+      {
+        "attackName": "Bite",
+        "attackDamage": "4",
+        "attackToHit": "1d4+2"
+      },
+      {
+        "attackName": "Shortsword",
+        "attackDamage": "4",
+        "attackToHit": "1d6+2"
+      },
+      {
+        "attackName": "Hand Crossbow",
+        "attackDamage": "4",
+        "attackToHit": "1d6+2"
+      }
+    ],
+    "meta": {
+      "legacy": true
+    }
+  },
+  {
+    "_id": "782bf9a9-510d-44bd-83a3-2000e4f3feb6",
+    "name": "Weretiger",
+    "ac": 120,
+    "hp": 12,
+    "attacks": [
+      {
+        "attackName": "Bite",
+        "attackDamage": "5",
+        "attackToHit": "1d10+3"
+      },
+      {
+        "attackName": "Claw",
+        "attackDamage": "5",
+        "attackToHit": "1d8+3"
+      },
+      {
+        "attackName": "Scimitar",
+        "attackDamage": "5",
+        "attackToHit": "1d6+3"
+      },
+      {
+        "attackName": "Longbow",
+        "attackDamage": "4",
+        "attackToHit": "1d8+2"
+      }
+    ],
+    "meta": {
+      "legacy": true
+    }
+  },
+  {
+    "_id": "6f41ac6d-a408-4c1c-8cba-41d96dc66c4f",
+    "name": "Werewolf",
+    "ac": 58,
+    "hp": 12,
+    "attacks": [
+      {
+        "attackName": "Bite",
+        "attackDamage": "4",
+        "attackToHit": "1d8+2"
+      },
+      {
+        "attackName": "Claws",
+        "attackDamage": "4",
+        "attackToHit": "2d4+2"
+      },
+      {
+        "attackName": "Spear(Ranged)",
+        "attackDamage": "4",
+        "attackToHit": "1d6+2"
+      },
+      {
+        "attackName": "Spear(Melee)",
+        "attackDamage": "4",
+        "attackToHit": "1d8+2"
+      }
+    ],
+    "meta": {
+      "legacy": true
+    }
+  },
+  {
+    "_id": "5ff385f8-06d6-411d-a2d9-8e7fb56ef902",
+    "name": "White Dragon Wyrmling",
+    "ac": 32,
+    "hp": 16,
+    "attacks": [
+      {
+        "attackName": "Bite",
+        "attackDamage": "4",
+        "attackToHit": "1d10+2/1d4"
+      }
+    ],
+    "meta": {
+      "legacy": true
+    }
+  },
+  {
+    "_id": "6005cb56-35cd-47da-aea1-6c08f4b95701",
+    "name": "Wight",
+    "ac": 45,
+    "hp": 14,
+    "attacks": [
+      {
+        "attackName": "Life Drain",
+        "attackDamage": "4",
+        "attackToHit": "1d6+2"
+      },
+      {
+        "attackName": "Longsword(1H)",
+        "attackDamage": "4",
+        "attackToHit": "1d8+2"
+      },
+      {
+        "attackName": "Longsword(2H)",
+        "attackDamage": "4",
+        "attackToHit": "1d10+2"
+      },
+      {
+        "attackName": "Longbow",
+        "attackDamage": "4",
+        "attackToHit": "1d8+2"
+      }
+    ],
+    "meta": {
+      "legacy": true
+    }
+  },
+  {
+    "_id": "5ffdfffd-3950-4b37-9831-ca115ae901a2",
+    "name": "Will-o\u0027-Wisp",
+    "ac": 22,
+    "hp": 19,
+    "attacks": [
+      {
+        "attackName": "Shock",
+        "attackDamage": "4",
+        "attackToHit": "2d8"
+      }
+    ],
+    "meta": {
+      "legacy": true
+    }
+  },
+  {
+    "_id": "953ae151-27fa-4130-bc1a-a4f9a01818ac",
+    "name": "Winged Kobold",
+    "ac": 7,
+    "hp": 13,
+    "attacks": [
+      {
+        "attackName": "Dagger",
+        "attackDamage": "5",
+        "attackToHit": "1d4+3"
+      },
+      {
+        "attackName": "Dropped Rock",
+        "attackDamage": "5",
+        "attackToHit": "1d6+3"
+      }
+    ],
+    "meta": {
+      "legacy": true
+    }
+  },
+  {
+    "_id": "f9c34995-7b4c-4151-bb30-d293182fe6fb",
+    "name": "Wraith",
+    "ac": 67,
+    "hp": 13,
+    "attacks": [
+      {
+        "attackName": "Life Drain",
+        "attackDamage": "6",
+        "attackToHit": "4d8+3"
+      }
+    ],
+    "meta": {
+      "legacy": true
+    }
+  },
+  {
+    "_id": "2ea04496-93b0-4394-a831-8d6d425ba5bb",
+    "name": "Wyvern",
+    "ac": 110,
+    "hp": 13,
+    "attacks": [
+      {
+        "attackName": "Bite",
+        "attackDamage": "7",
+        "attackToHit": "2d6+4"
+      },
+      {
+        "attackName": "Claws",
+        "attackDamage": "7",
+        "attackToHit": "2d8+4"
+      },
+      {
+        "attackName": "Stinger",
+        "attackDamage": "7",
+        "attackToHit": "2d6+4"
+      }
+    ],
+    "meta": {
+      "legacy": true
+    }
+  },
+  {
+    "_id": "8f9712ba-9e33-4fea-b957-502a4a9a2205",
+    "name": "Xorn",
+    "ac": 73,
+    "hp": 19,
+    "attacks": [
+      {
+        "attackName": "Claw",
+        "attackDamage": "6",
+        "attackToHit": "1d6+3"
+      },
+      {
+        "attackName": "Bite",
+        "attackDamage": "6",
+        "attackToHit": "3d6+3"
+      }
+    ],
+    "meta": {
+      "legacy": true
+    }
+  },
+  {
+    "_id": "912fee0d-e5de-4c81-8950-7c204da8426f",
+    "name": "Yeti",
+    "ac": 51,
+    "hp": 12,
+    "attacks": [
+      {
+        "attackName": "Claw",
+        "attackDamage": "6",
+        "attackToHit": "1d6+4/1d6"
+      }
+    ],
+    "meta": {
+      "legacy": true
+    }
+  },
+  {
+    "_id": "a85af16c-3dd3-426a-822b-2a7649f9829c",
+    "name": "Yochlol",
+    "ac": 136,
+    "hp": 15,
+    "attacks": [
+      {
+        "attackName": "Slam(Bite)",
+        "attackDamage": "6",
+        "attackToHit": "1d6+2/6d6"
+      }
+    ],
+    "meta": {
+      "legacy": true
+    }
+  },
+  {
+    "_id": "e750a4d0-f9c1-41cb-ac76-e20048201499",
+    "name": "Young Black Dragon",
+    "ac": 127,
+    "hp": 18,
+    "attacks": [
+      {
+        "attackName": "Bite",
+        "attackDamage": "7",
+        "attackToHit": "2d10+4/1d8"
+      },
+      {
+        "attackName": "Claw",
+        "attackDamage": "7",
+        "attackToHit": "2d6+4"
+      }
+    ],
+    "meta": {
+      "legacy": true
+    }
+  },
+  {
+    "_id": "9963d7ff-c608-4716-8099-be3e22c73569",
+    "name": "Young Blue Dragon",
+    "ac": 152,
+    "hp": 18,
+    "attacks": [
+      {
+        "attackName": "Bite",
+        "attackDamage": "9",
+        "attackToHit": "2d10+5/1d10"
+      },
+      {
+        "attackName": "Claw",
+        "attackDamage": "9",
+        "attackToHit": "2d6+5"
+      }
+    ],
+    "meta": {
+      "legacy": true
+    }
+  },
+  {
+    "_id": "9552e67a-be95-478c-92d7-6cff59b4925a",
+    "name": "Young Brass Dragon",
+    "ac": 110,
+    "hp": 17,
+    "attacks": [
+      {
+        "attackName": "Bite",
+        "attackDamage": "7",
+        "attackToHit": "2d10+4"
+      },
+      {
+        "attackName": "Claw",
+        "attackDamage": "7",
+        "attackToHit": "2d6+4"
+      }
+    ],
+    "meta": {
+      "legacy": true
+    }
+  },
+  {
+    "_id": "c7ad44c5-5b36-46f1-b9c4-53d696c216ca",
+    "name": "Young Bronze Dragon",
+    "ac": 142,
+    "hp": 18,
+    "attacks": [
+      {
+        "attackName": "Bite",
+        "attackDamage": "9",
+        "attackToHit": "2d10+5"
+      },
+      {
+        "attackName": "Claw",
+        "attackDamage": "9",
+        "attackToHit": "2d6+5"
+      }
+    ],
+    "meta": {
+      "legacy": true
+    }
+  },
+  {
+    "_id": "8a60fe61-b365-4ed0-8bd0-e21905d05b33",
+    "name": "Young Copper Dragon",
+    "ac": 119,
+    "hp": 17,
+    "attacks": [
+      {
+        "attackName": "Bite",
+        "attackDamage": "7",
+        "attackToHit": "2d10+4"
+      },
+      {
+        "attackName": "Claw",
+        "attackDamage": "7",
+        "attackToHit": "2d6+4"
+      }
+    ],
+    "meta": {
+      "legacy": true
+    }
+  },
+  {
+    "_id": "22c49737-8c83-4d50-8d42-05b7e4b667fe",
+    "name": "Young Gold Dragon",
+    "ac": 178,
+    "hp": 18,
+    "attacks": [
+      {
+        "attackName": "Bite",
+        "attackDamage": "10",
+        "attackToHit": "2d10+6"
+      },
+      {
+        "attackName": "Claw",
+        "attackDamage": "10",
+        "attackToHit": "2d6+4"
+      }
+    ],
+    "meta": {
+      "legacy": true
+    }
+  },
+  {
+    "_id": "b7b9d18b-2c6e-4b96-a11e-2e8fca0d8d05",
+    "name": "Young Green Dragon",
+    "ac": 136,
+    "hp": 18,
+    "attacks": [
+      {
+        "attackName": "Bite",
+        "attackDamage": "7",
+        "attackToHit": "2d10+4/2d6"
+      },
+      {
+        "attackName": "Claw",
+        "attackDamage": "7",
+        "attackToHit": "2d6+4"
+      }
+    ],
+    "meta": {
+      "legacy": true
+    }
+  },
+  {
+    "_id": "6c571de7-395d-4ba8-8550-f4ad51877c87",
+    "name": "Young Red Dragon",
+    "ac": 178,
+    "hp": 18,
+    "attacks": [
+      {
+        "attackName": "Bite",
+        "attackDamage": "10",
+        "attackToHit": "2d10+6/1d6"
+      },
+      {
+        "attackName": "Claw",
+        "attackDamage": "10",
+        "attackToHit": "2d6+4"
+      }
+    ],
+    "meta": {
+      "legacy": true
+    }
+  },
+  {
+    "_id": "ca41d74a-d102-487c-81f6-530296184fa4",
+    "name": "Young Red Shadow Dragon",
+    "ac": 178,
+    "hp": 18,
+    "attacks": [
+      {
+        "attackName": "Bite",
+        "attackDamage": "10",
+        "attackToHit": "2d10+6/1d6"
+      },
+      {
+        "attackName": "Claw",
+        "attackDamage": "10",
+        "attackToHit": "2d6+6"
+      }
+    ],
+    "meta": {
+      "legacy": true
+    }
+  },
+  {
+    "_id": "2b1f1a3e-3d1e-4f41-bbef-cd4e16886ac8",
+    "name": "Young Remorhaz",
+    "ac": 93,
+    "hp": 14,
+    "attacks": [
+      {
+        "attackName": "Bite",
+        "attackDamage": "6",
+        "attackToHit": "3d10+4/2d6"
+      }
+    ],
+    "meta": {
+      "legacy": true
+    }
+  },
+  {
+    "_id": "5528cfc0-3903-4c92-9f2e-eea76aeb5613",
+    "name": "Young Silver Dragon",
+    "ac": 168,
+    "hp": 18,
+    "attacks": [
+      {
+        "attackName": "Bite",
+        "attackDamage": "10",
+        "attackToHit": "2d10+6"
+      },
+      {
+        "attackName": "Claw",
+        "attackDamage": "10",
+        "attackToHit": "2d6+4"
+      }
+    ],
+    "meta": {
+      "legacy": true
+    }
+  },
+  {
+    "_id": "8a37e8d7-9b24-42ce-bcbc-510181430bab",
+    "name": "Young White Dragon",
+    "ac": 133,
+    "hp": 17,
+    "attacks": [
+      {
+        "attackName": "Bite",
+        "attackDamage": "7",
+        "attackToHit": "2d10+4/1d8"
+      },
+      {
+        "attackName": "Claw",
+        "attackDamage": "7",
+        "attackToHit": "2d6+4"
+      }
+    ],
+    "meta": {
+      "legacy": true
+    }
+  },
+  {
+    "_id": "7dfa1eb0-a248-4b7a-b572-ecbbf1f6d3e8",
+    "name": "Yuan-ti Abomination",
+    "ac": 127,
+    "hp": 15,
+    "attacks": [
+      {
+        "attackName": "Bite",
+        "attackDamage": "7",
+        "attackToHit": "1d6+4/3d6"
+      },
+      {
+        "attackName": "Constrict",
+        "attackDamage": "7",
+        "attackToHit": "2d6+4"
+      },
+      {
+        "attackName": "Scimitar",
+        "attackDamage": "7",
+        "attackToHit": "2d6+4"
+      },
+      {
+        "attackName": "Longbow",
+        "attackDamage": "6",
+        "attackToHit": "2d8+3/3d6"
+      }
+    ],
+    "meta": {
+      "legacy": true
+    }
+  },
+  {
+    "_id": "921cba51-3ef3-46a6-9a51-e158f3876e3c",
+    "name": "Yuan-ti Malison 1",
+    "ac": 66,
+    "hp": 12,
+    "attacks": [
+      {
+        "attackName": "Bite",
+        "attackDamage": "5",
+        "attackToHit": "1d4+3/2d6"
+      },
+      {
+        "attackName": "Scimitar",
+        "attackDamage": "5",
+        "attackToHit": "1d6+3"
+      },
+      {
+        "attackName": "Longbow",
+        "attackDamage": "4",
+        "attackToHit": "1d8+2/2d6"
+      }
+    ],
+    "meta": {
+      "legacy": true
+    }
+  },
+  {
+    "_id": "6d458eeb-08ff-4b0c-8d66-9be9e033b22b",
+    "name": "Yuan-ti Malison 2",
+    "ac": 66,
+    "hp": 12,
+    "attacks": [
+      {
+        "attackName": "Bite",
+        "attackDamage": "5",
+        "attackToHit": "1d4+3/2d6"
+      }
+    ],
+    "meta": {
+      "legacy": true
+    }
+  },
+  {
+    "_id": "3e3a14de-bf78-4b1c-98c9-ae773d4692df",
+    "name": "Yuan-ti Malison 3",
+    "ac": 66,
+    "hp": 12,
+    "attacks": [
+      {
+        "attackName": "Bite",
+        "attackDamage": "5",
+        "attackToHit": "1d4+3/2d6"
+      },
+      {
+        "attackName": "Constrict",
+        "attackDamage": "5",
+        "attackToHit": "2d6+3"
+      },
+      {
+        "attackName": "Scimitar",
+        "attackDamage": "5",
+        "attackToHit": "1d6+3"
+      },
+      {
+        "attackName": "Longbow",
+        "attackDamage": "5",
+        "attackToHit": "1d8+2"
+      }
+    ],
+    "meta": {
+      "legacy": true
+    }
+  },
+  {
+    "_id": "1a3dbb9a-59d4-4ba5-9542-df2683d95190",
+    "name": "Yuan-ti Pureblood",
+    "ac": 40,
+    "hp": 11,
+    "attacks": [
+      {
+        "attackName": "Scimitar",
+        "attackDamage": "3",
+        "attackToHit": "1d6+1"
+      },
+      {
+        "attackName": "Shortbow",
+        "attackDamage": "3",
+        "attackToHit": "1d6+1/2d6"
+      }
+    ],
+    "meta": {
+      "legacy": true
+    }
+  },
+  {
+    "_id": "c641a533-e4e0-4f65-947c-46a7abd78bbc",
+    "name": "Zombie",
+    "ac": 22,
+    "hp": 8,
+    "attacks": [
+      {
+        "attackName": "Slam",
+        "attackDamage": "3",
+        "attackToHit": "1d6+1"
+      }
+    ],
+    "meta": {
+      "legacy": true
+    }
+  }
+]

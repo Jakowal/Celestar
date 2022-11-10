@@ -1,3 +1,5 @@
+package com.example.celestar.utils
+
 import com.example.celestar.model.Attack
 import com.example.celestar.model.Creature
 import java.io.File
@@ -17,7 +19,7 @@ fun main() {
     writeFile(creatureList.toString())
 }
 
-private fun readFile(filename: String = "utils/MonsterManual.csv"): List<String> {
+private fun readFile(filename: String = "src/main/kotlin/com/example/celestar/utils/MonsterManual.csv"): List<String> {
     val contents = mutableListOf<String>()
     File(filename).bufferedReader().forEachLine {
         contents.add(it)
@@ -26,7 +28,7 @@ private fun readFile(filename: String = "utils/MonsterManual.csv"): List<String>
 }
 
 private fun writeFile(data: String) {
-    File("utils/generated/MonsterManualObjects.json").writeText(data)
+    File("src/main/resources/generated/MonsterManual.json").writeText(data)
 }
 
 private fun parseMonsters(inputData: List<String>): List<String> {
