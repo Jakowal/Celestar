@@ -40,6 +40,15 @@ class CreatureController(
         return ResponseEntity.ok(creatureRepository.save(creature))
     }
 
+    @PostMapping("/multiple")
+    fun saveCreatures(@RequestBody creatures: List<Creature>): ResponseEntity<Any> {
+        creatures.forEach {
+            creatureRepository.save(it)
+        }
+        return ResponseEntity.ok(null)
+    }
+
+
     @DeleteMapping("/name={name}")
     fun deleteCreaturesByName(@PathVariable name: String): ResponseEntity<Int> {
         return ResponseEntity.ok(creatureRepository.deleteAllByName(name))
