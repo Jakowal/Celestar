@@ -8,9 +8,9 @@ import org.junit.jupiter.api.Test
 import org.junit.jupiter.api.TestInstance
 import org.junit.jupiter.api.extension.ExtendWith
 import org.springframework.beans.factory.annotation.Autowired
+import org.springframework.beans.factory.annotation.Value
 import org.springframework.boot.test.context.SpringBootTest
 import org.springframework.boot.test.web.client.TestRestTemplate
-import org.springframework.boot.test.web.server.LocalServerPort
 import org.springframework.core.ParameterizedTypeReference
 import org.springframework.http.HttpMethod
 import org.springframework.test.context.junit.jupiter.SpringExtension
@@ -29,16 +29,14 @@ class CelestarApplicationTests {
 @TestInstance(TestInstance.Lifecycle.PER_CLASS)
 class CreatureControllerIntTest @Autowired constructor(
 	private val creatureRepository: CreatureRepository,
-	private val restTemplate: TestRestTemplate
+	private val restTemplate: TestRestTemplate,
+	@Value("\${spring.datasource.url}") private val url: String
 ) {
 	private val defaultCreatureId = UUID.randomUUID().toString()
 	private val defaultCreatureName = "Database Test Creature, will be deleted"
 	private val testCreature = Creature(defaultCreatureId, defaultCreatureName, 0, 0, null, null)
 
-	@LocalServerPort
-	protected var port: Int = 8080
-
-	private fun getRootUrl(): String = "http://localhost:$port/creatures"
+	private fun getRootUrl(): String = "$url/creatures"
 
 	private fun createTestCreature(creatureId: String = defaultCreatureId) = creatureRepository.save(Creature(creatureId, defaultCreatureName, 0, 0, null, null))
 	@AfterEach
