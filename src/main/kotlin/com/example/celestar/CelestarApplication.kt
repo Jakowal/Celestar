@@ -1,11 +1,9 @@
 package com.example.celestar
 
 import org.springframework.boot.autoconfigure.SpringBootApplication
-import org.springframework.boot.autoconfigure.mongo.MongoAutoConfiguration
 import org.springframework.boot.runApplication
 
-//Remove the 'exclude' for local running
-@SpringBootApplication(exclude = [MongoAutoConfiguration::class])
+@SpringBootApplication
 class CelestarApplication
 
 fun main(args: Array<String>) {
