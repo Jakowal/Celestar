@@ -7,5 +7,6 @@ import org.springframework.boot.runApplication
 class CelestarApplication
 
 fun main(args: Array<String>) {
+
 	runApplication<CelestarApplication>(*args)
 }
