@@ -3,6 +3,7 @@ package com.example.celestar.controllers
 import com.example.celestar.model.Creature
 import com.example.celestar.repositories.CreatureRepository
 import org.springframework.http.ResponseEntity
+import org.springframework.web.bind.annotation.CrossOrigin
 import org.springframework.web.bind.annotation.DeleteMapping
 import org.springframework.web.bind.annotation.GetMapping
 import org.springframework.web.bind.annotation.PathVariable
@@ -13,6 +14,7 @@ import org.springframework.web.bind.annotation.RestController
 
 @RestController
 @RequestMapping("/creatures")
+@CrossOrigin(origins = ["http://localhost:4200", "https://brave-dune-020563403.2.azurestaticapps.net/"])
 class CreatureController(
     private val creatureRepository: CreatureRepository
 ) {
