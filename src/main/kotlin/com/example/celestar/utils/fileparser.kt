@@ -11,13 +11,13 @@ import com.google.gson.Gson
  * Used for generating a set of legacy monsters ready for JSON import from a .csv file
  */
 
-fun main() {
+/*fun main() {
     val inputFile = readFile()
 
     val creatureList = parseMonsters(inputFile)
 
     writeFile(creatureList.toString())
-}
+}*/
 
 private fun readFile(filename: String = "src/main/kotlin/com/example/celestar/utils/MonsterManual.csv"): List<String> {
     val contents = mutableListOf<String>()
